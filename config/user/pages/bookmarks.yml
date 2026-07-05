@@ -6,15 +6,6 @@ title: 我的书签
 subtitle: 从浏览器导入的书签收藏
 template: bookmarks
 categories:
-  - name: 根目录书签
-    icon: fas fa-star
-    path:
-      - 根目录书签
-    sites:
-      - name: '1'
-        url: http://0.0.0.1/
-        icon: fas fa-link
-        description: ''
   - name: 常用
     icon: fas fa-folder
     path:
