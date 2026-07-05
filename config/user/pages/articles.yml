@@ -12,12 +12,12 @@ template: articles
 # 重要：url 应填写“站点首页 URL”（不是某一篇文章链接），系统会自动发现 RSS/Atom。
 categories:
   - name: 个人博客
-  icon: fas fa-rss
-  sites:
-    - name: 我的博客
-      icon: fas fa-pen
-      description: 我的个人博客
-      url: https://woblog.ccwu.cc/
+    icon: fas fa-rss
+    sites:
+      - name: 我的博客
+        icon: fas fa-pen
+        description: 我的个人博客
+        url: https://woblog.ccwu.cc/
   - name: 官方博客
     icon: fas fa-rss
     sites:
