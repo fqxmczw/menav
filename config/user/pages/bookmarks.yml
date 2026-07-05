@@ -6,607 +6,365 @@ title: 我的书签
 subtitle: 从浏览器导入的书签收藏
 template: bookmarks
 categories:
-  - name: 网上冲浪
+  - name: 常用
     icon: fas fa-folder
     path:
-      - 网上冲浪
-    sites:
-      - name: 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
-        url: https://www.bilibili.com/
-        icon: fas fa-link
-        description: ''
-      - name: 抖音-记录美好生活
-        url: https://www.douyin.com/
-        icon: fas fa-link
-        description: ''
-      - name: GitHub
-        url: https://github.com/
-        icon: fab fa-github
-        description: ''
-      - name: 导读-最新发表 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn
-        url: https://www.52pojie.cn/forum.php?mod=guide&view=newthread
-        icon: fas fa-link
-        description: ''
-      - name: 宝塔面板下载，免费全能的服务器运维软件
-        url: https://www.bt.cn/new/download.html
-        icon: fas fa-link
-        description: ''
-      - name: 阿里云
-        url: https://www.aliyun.com/
-        icon: fas fa-link
-        description: ''
-      - name: RAGFlow
-        url: http://localhost/knowledge
-        icon: fas fa-link
-        description: ''
-      - name: DeepSeek 开放平台
-        url: https://platform.deepseek.com/usage
-        icon: fas fa-link
-        description: ''
-      - name: DeepSeek - 探索未至之境
-        url: https://chat.deepseek.com/
-        icon: fas fa-link
-        description: ''
-      - name: ClawCloud Run
-        url: https://ap-northeast-1.run.claw.cloud/
-        icon: fas fa-link
-        description: ''
-      - name: OpenList - OpenList 文档
-        url: https://doc.oplist.org/
-        icon: fas fa-link
-        description: ''
-      - name: 主页 | 沃德天の云盘
-        url: https://lcmzcoth.ap-northeast-1.clawcloudrun.com/
-        icon: fas fa-link
-        description: ''
-      - name: 中兴智能路由器
-        url: https://cmcc.wifi/
-        icon: fas fa-link
-        description: ''
-      - name: 【新提醒】恩山无线论坛 - Powered by Discuz!
-        url: https://www.right.com.cn/forum/erling_qd-sign_in.html
-        icon: fas fa-link
-        description: ''
-      - name: Mizuki Next Theme
-        url: https://docs.mizuki.mysqil.com/
-        icon: fas fa-link
-        description: ''
-      - name: Kongclのblog - One demo website
-        url: https://woblog.ccwu.cc/
-        icon: fas fa-link
-        description: ''
-      - name: Vercel
-        url: https://vercel.com/kongcl-s-projects
-        icon: fas fa-link
-        description: ''
-      - name: LogVar弹幕API
-        url: https://danmu.wofd.ccwu.cc/134679
-        icon: fas fa-link
-        description: ''
-      - name: 用户中心 | ViteBits
-        url: https://www.vitebits.com/clientarea
-        icon: fas fa-link
-        description: ''
-  - name: cloudflare
-    icon: fas fa-folder
-    path:
-      - cloudflare
-    sites:
-      - name: 帐户主页 | 2907664647@qq.com&#39;s Account | Cloudflare
-        url: https://dash.cloudflare.com/65a3d3c93629f6b5685fb3eacbce4032/home/overview
-        icon: fas fa-link
-        description: ''
-      - name: kongclのmail
-        url: https://mail.klmail.ccwu.cc/inbox
-        icon: fas fa-link
-        description: ''
-      - name: edgetunnel 设置页面 - 管理后台
-        url: https://edt.wocf.ccwu.cc/admin
-        icon: fas fa-link
-        description: ''
-      - name: MakkaPakka的反代面板
-        url: https://kongcl.wofd.ccwu.cc/
-        icon: fas fa-link
-        description: ''
-      - name: CF Request Analytics Panel
-        url: https://analytics.woblog.ccwu.cc/
-        icon: fas fa-link
-        description: ''
-      - name: 我的免费域名管理 - DNSHE.COM
-        url: https://my.dnshe.com/index.php?m=domain_hub
-        icon: fas fa-link
-        description: ''
-      - name: 'XIU2/CloudflareSpeedTest: 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~'
-        url: https://github.com/XIU2/CloudflareSpeedTest
-        icon: fab fa-github
-        description: ''
-      - name: edgetunnel/_worker.js at main · cmliu/edgetunnel
-        url: https://github.com/cmliu/edgetunnel/blob/main/_worker.js
-        icon: fab fa-github
-        description: ''
-      - name: 'zhuima/awesome-cloudflare: ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.'
-        url: https://github.com/zhuima/awesome-cloudflare
-        icon: fab fa-github
-        description: ''
-      - name: Auroral patterns - LuminousTrace
-        url: https://luminoustrace.com/archives/patterns
-        icon: fas fa-link
-        description: ''
-      - name: 私人 Worker 混淆控制台
-        url: https://hx.crush.ccwu.cc/
-        icon: fas fa-link
-        description: ''
-      - name: 玛卡巴卡反代部署教程
-        url: https://placid-lobster-76a.notion.site/342c1cddefa180b9972ce0b2190302ff
-        icon: fas fa-link
-        description: ''
-      - name: ITDOG - 在线ping_在线tcping_网站测速_HTTP测速_API测速_路由追踪_在线MTR_DNS查询_ITDOG-云邦畅想
-        url: https://www.itdog.cn/
-        icon: fas fa-link
-        description: ''
-      - name: 网络空间测绘，网络空间安全搜索引擎，网络空间搜索引擎，安全态势感知 - FOFA网络空间测绘系统
-        url: https://fofa.info/
-        icon: fas fa-link
-        description: ''
-      - name: EDT AIO 导航 - BestCF.pages.dev | Cloudflare EdgeTunnel
-        url: https://bestcf.pages.dev/
-        icon: fas fa-link
-        description: ''
-      - name: 沃德天的导航页
-        url: https://tab.woblog.ccwu.cc/
-        icon: fas fa-link
-        description: ''
-      - name: kongclの图床
-        url: https://imgbed.woblog.ccwu.cc/dashboard
-        icon: fas fa-link
-        description: ''
-  - name: 办公
-    icon: fas fa-folder
-    path:
-      - 办公
+      - 常用
     subcategories:
-      - name: 字体
+      - name: 我的项目
         icon: fas fa-folder
         path:
-          - 办公
-          - 字体
+          - 常用
+          - 我的项目
         sites:
-          - name: 站酷字库 - 付费字体 &amp; 免费字体 - 站酷 (ZCOOL)
-            url: https://www.zcool.com.cn/special/zcoolfonts/
+          - name: 我的博客
+            url: https://woblog.ccwu.cc/
             icon: fas fa-link
             description: ''
-          - name: 360查字体-查版权，免纠纷
-            url: https://fonts.safe.360.cn/?from=bd
+          - name: 我的临时邮箱
+            url: https://mail.klmail.ccwu.cc/
             icon: fas fa-link
             description: ''
-          - name: 字体下载-求字体网提供中文和英文字体库下载、识别与预览服务，找字体的好帮手
-            url: http://www.qiuziti.com/
+          - name: CF Request Analytics
+            url: https://analytics.woblog.ccwu.cc/
             icon: fas fa-link
             description: ''
-          - name: 100font.com - 免版权字体下载、免费商用字体下载网站
-            url: https://www.100font.com/
+          - name: 我的图床
+            url: https://imgbed.woblog.ccwu.cc/dashboard
             icon: fas fa-link
             description: ''
-    sites:
-      - name: ChatGPT
-        url: https://chat.openai.com/
-        icon: fas fa-link
-        description: ''
-      - name: ‎Bard - Google 推出的对话式 AI 工具
-        url: https://bard.google.com/
-        icon: fab fa-google
-        description: ''
-      - name: Assistant - Poe
-        url: https://poe.com/ChatGPT
-        icon: fas fa-link
-        description: ''
-      - name: 开放人工智能
-        url: https://openai.com/
-        icon: fas fa-link
-        description: ''
-      - name: AutoGPT Next Web
-        url: https://autogpt.yuina.cn/
-        icon: fas fa-link
-        description: ''
-      - name: HaiPro の Prompt - 飞书云文档
-        url: https://ywh1bkansf.feishu.cn/wiki/Dor2wc2FviY3q3kgSuScJrkhngg
-        icon: fas fa-link
-        description: ''
-      - name: 网上共青团·智慧团建
-        url: https://zhtj.youth.cn/zhtj/
-        icon: fas fa-link
-        description: ''
-      - name: 邮件 - 陈 志伟 - Outlook
-        url: https://outlook.live.com/mail/0/sentitems
-        icon: fas fa-link
-        description: ''
-      - name: 收件箱 (204) - 29076czw@gmail.com - Gmail
-        url: https://mail.google.com/mail/u/0/#inbox
-        icon: fab fa-google
-        description: ''
-      - name: QQ邮箱
-        url: https://mail.qq.com/cgi-bin/frame_html?sid=JiF6G2pdCkVwmjdT&r=3b0d065c3afa1263b9a9bd61edf2b93d&lang=zh
-        icon: fas fa-link
-        description: ''
-      - name: 网上共青团·智慧团建
-        url: https://zhtj.youth.cn/zhtj/mine/mytuanyuaninfo
-        icon: fas fa-link
-        description: ''
-      - name: kongcl (feiqiuxiaomao) - Gitee.com
-        url: https://gitee.com/feiqiuxiaomao
-        icon: fas fa-link
-        description: ''
-      - name: 中国国家图书馆官网- eGouz上网导航
-        url: http://www.egouz.com/topics/12906.html
-        icon: fas fa-link
-        description: ''
-      - name: 阿里云盘
-        url: https://www.aliyundrive.com/drive
-        icon: fas fa-link
-        description: ''
-      - name: 百度网盘
-        url: https://pan.baidu.com/disk/main?from=homeFlow#/index?category=all
-        icon: fas fa-link
-        description: ''
-      - name: 夸克网盘
-        url: https://pan.quark.cn/list#/list/all/231a79f23f6d492e96ad8e62568f3f1b-%E9%9F%B3%E4%B9%90
-        icon: fas fa-link
-        description: ''
-      - name: 图床 - 简单、快速、免费的图床
-        url: https://img.scdn.io/
-        icon: fas fa-link
-        description: ''
-  - name: 学习
+          - name: Komari探针
+            url: https://komari.woblog.ccwu.cc/
+            icon: fas fa-link
+            description: ''
+          - name: 我的盘搜
+            url: https://pansou.wofd.ccwu.cc
+            icon: fas fa-link
+            description: ''
+          - name: Emby 服务器探针
+            url: https://embyjk.wofd.ccwu.cc/
+            icon: fas fa-link
+            description: ''
+          - name: 我的订阅管理
+            url: https://dy.klmail.ccwu.cc/
+            icon: fas fa-link
+            description: ''
+          - name: 我的反代面板
+            url: https://kongcl.wofd.ccwu.cc/
+            icon: fas fa-link
+            description: ''
+          - name: 我的弹幕API
+            url: https://danmu.wofd.ccwu.cc/134679
+            icon: fas fa-link
+            description: ''
+          - name: edgetunnel面板
+            url: https://edt.wocf.ccwu.cc/admin
+            icon: fas fa-link
+            description: ''
+          - name: 3X-UI
+            url: https://3xui.wocf.ccwu.cc/Zx9k5L5KyPKfFItLHY
+            icon: fas fa-link
+            description: ''
+          - name: niuma自建
+            url: https://hk123.wofd.ccwu.cc
+            icon: fas fa-link
+            description: ''
+          - name: niuma自建1
+            url: https://us123.wofd.ccwu.cc
+            icon: fas fa-link
+            description: ''
+      - name: 视频
+        icon: fas fa-folder
+        path:
+          - 常用
+          - 视频
+        sites:
+          - name: bilibili
+            url: https://www.bilibili.com/
+            icon: fas fa-link
+            description: ''
+          - name: YouTube
+            url: https://www.youtube.com/
+            icon: fab fa-youtube
+            description: ''
+          - name: 抖音
+            url: https://www.douyin.com/jingxuan
+            icon: fas fa-link
+            description: ''
+          - name: TikTok
+            url: https://www.tiktok.com/
+            icon: fas fa-link
+            description: ''
+          - name: CMoonTV
+            url: https://cmoontv.dedyn.io/
+            icon: fas fa-link
+            description: ''
+          - name: 自定义媒体库广场
+            url: https://app.dreamby.vip/
+            icon: fas fa-link
+            description: ''
+      - name: 开发
+        icon: fas fa-folder
+        path:
+          - 常用
+          - 开发
+        sites:
+          - name: cloudflare
+            url: https://dash.cloudflare.com/
+            icon: fas fa-link
+            description: ''
+          - name: Github
+            url: https://github.com/fqxmczw
+            icon: fab fa-github
+            description: ''
+          - name: Gitee
+            url: https://gitee.com/feiqiuxiaomao
+            icon: fas fa-link
+            description: ''
+          - name: vercel
+            url: https://vercel.com/
+            icon: fas fa-link
+            description: ''
+          - name: DNSHE
+            url: https://my.dnshe.com/
+            icon: fas fa-link
+            description: ''
+  - name: AI
     icon: fas fa-folder
     path:
-      - 学习
+      - AI
     subcategories:
-      - name: 研究生
+      - name: 默认分类
         icon: fas fa-folder
         path:
-          - 学习
-          - 研究生
+          - AI
+          - 默认分类
         sites:
-          - name: https://2018.hao245.com
-            url: https://2018.hao245.com/
+          - name: Claude
+            url: https://claude.ai
             icon: fas fa-link
             description: ''
-    sites:
-      - name: 研究生招生网
-        url: https://yz.shmtu.edu.cn/
-        icon: fas fa-link
-        description: ''
-      - name: 中国研究生招生信息网
-        url: https://yz.chsi.com.cn/
-        icon: fas fa-link
-        description: ''
-      - name: 江西理工大学 - JiangXi University of Science and Technology
-        url: https://www.jxust.edu.cn/
-        icon: fas fa-link
-        description: ''
-      - name: 引导页
-        url: https://zhdj.jxust.edu.cn/
-        icon: fas fa-link
-        description: ''
-      - name: 金榜时代—传递良知，让人生更美好
-        url: https://www.vkbrother.com/index
-        icon: fas fa-link
-        description: ''
-      - name: 启航教育在线考研官网-考研辅导培训_启航教育考研网络课堂
-        url: https://www.iqihang.com/ark/learn/6237540
-        icon: fas fa-link
-        description: ''
-      - name: 学习强国
-        url: https://www.xuexi.cn/
-        icon: fas fa-link
-        description: ''
-      - name: 超星学习通
-        url: http://i.mooc.chaoxing.com/space/index?t=1665670790322
-        icon: fas fa-link
-        description: ''
-      - name: 学生首页_在线学堂_智慧树
-        url: https://onlineweb.zhihuishu.com/onlinestuh5
-        icon: fas fa-link
-        description: ''
-      - name: U校园
-        url: https://u.unipus.cn/user/student?school_id=8657
-        icon: fas fa-link
-        description: ''
-      - name: 江西理工大学图书馆
-        url: https://tsg.jxust.edu.cn/
-        icon: fas fa-link
-        description: ''
-      - name: AIGC免费论文检测 | AIGC智能降重服务 - PaperYY免费论文查重
-        url: https://www.paperyy.com/
-        icon: fas fa-link
-        description: ''
-      - name: 中国知网
-        url: https://www.cnki.net/
-        icon: fas fa-link
-        description: ''
-      - name: 全国大学生数学建模竞赛
-        url: https://cumcm.cnki.net/cumcm//studentHome/studentHome
-        icon: fas fa-link
-        description: ''
-      - name: 知网研学
-        url: https://x.cnki.net/psmc#/Home
-        icon: fas fa-link
-        description: ''
-      - name: 全国大学生数学建模竞赛
-        url: http://www.mcm.edu.cn/
-        icon: fas fa-link
-        description: ''
-      - name: 中国研究生招生信息网
-        url: https://yzst.chsi.com.cn/index2.html
-        icon: fas fa-link
-        description: ''
-      - name: SPSSPRO-免费专业的在线数据分析平台
-        url: https://www.spsspro.com/
-        icon: fas fa-link
-        description: ''
-      - name: BIM自学网
-        url: https://www.bimbim.cn/
-        icon: fas fa-link
-        description: ''
-      - name: CAD自学网 - CAD视频教程,CAD软件下载,免费的设计软件教程自学网
-        url: https://www.cadzxw.com/
-        icon: fas fa-link
-        description: ''
-      - name: Revit,Navisworks建筑施工BIM讨论区 - Autodesk Community
-        url: https://forums.autodesk.com/t5/revit-navisworks-jian-zhu-shi-gongbim-tao-lun-qu/bd-p/911
-        icon: fas fa-link
-        description: ''
-      - name: 豆丁建筑网--面向全球的建筑资料分享交流互动平台
-        url: https://jz.docin.com/
-        icon: fas fa-link
-        description: ''
-      - name: BIM大学 - Powered by Discuz!
-        url: http://bbs.glsbim.com/
-        icon: fas fa-link
-        description: ''
-      - name: 'Kaggle: Your Home for Data Science'
-        url: https://www.kaggle.com/
-        icon: fas fa-link
-        description: ''
-      - name: 鸿城InfraFuser在线教学演示
-        url: https://sjykt.glodon.com/p/t_pc/course_pc_detail/column/p_6097f58de4b0d4eb03981db1?product_id=p_6097f58de4b0d4eb03981db1
-        icon: fas fa-link
-        description: ''
-      - name: 广联达设计云课堂
-        url: https://sjykt.glodon.com/page/2745202?navIndex=0
-        icon: fas fa-link
-        description: ''
-      - name: 腾讯课堂（免费+付费，课程资源丰富质量参差不齐）
-        url: https://ke.qq.com/
-        icon: fas fa-link
-        description: ''
-      - name: (3条消息)CSDN - 专业开发者社区
-        url: https://www.csdn.net/
-        icon: fas fa-link
-        description: ''
-      - name: GitHub
-        url: https://github.com/
-        icon: fab fa-github
-        description: ''
-      - name: 恩山无线论坛 - Powered by Discuz!
-        url: https://www.right.com.cn/forum/
-        icon: fas fa-link
-        description: ''
-      - name: 学术搜索 - 站在巨人的肩膀上 - Google 学术
-        url: https://scholar.chongbuluo.com/
-        icon: fas fa-link
-        description: ''
-      - name: 智慧团建
-        url: https://zhtj.youth.cn/zhtj/signin
-        icon: fas fa-link
-        description: ''
-      - name: 中国大学MOOC
-        url: https://www.icourse163.org/
-        icon: fas fa-link
-        description: ''
-      - name: 学信网
-        url: https://www.chsi.com.cn/
-        icon: fas fa-link
-        description: ''
-      - name: 建筑云课-课程中心
-        url: https://ai.glodonedu.com/front/coursecenter/activityspecial/more?code=010
-        icon: fas fa-link
-        description: ''
-      - name: 中国大学MOOC(慕课)_国家精品课程在线学习平台
-        url: https://www.icourse163.org/
-        icon: fas fa-link
-        description: ''
-      - name: 计算机等级考试管理系统
-        url: http://123.57.55.61/infoManagerAction!searchMoreNews.do?vid=3
-        icon: fas fa-link
-        description: ''
-  - name: 资源
+          - name: ChatGPT
+            url: https://chatgpt.com/
+            icon: fas fa-link
+            description: ''
+          - name: Deepseek
+            url: https://chat.deepseek.com/
+            icon: fas fa-link
+            description: ''
+          - name: Gemini
+            url: https://gemini.google.com/
+            icon: fab fa-google
+            description: ''
+          - name: cto
+            url: https://cto.new/
+            icon: fas fa-link
+            description: ''
+          - name: 豆包
+            url: https://www.doubao.com/chat
+            icon: fas fa-link
+            description: ''
+      - name: 中转站
+        icon: fas fa-folder
+        path:
+          - AI
+          - 中转站
+        sites:
+          - name: Moniker
+            url: https://aimoniker.top/console
+            icon: fas fa-link
+            description: ''
+      - name: 工具
+        icon: fas fa-folder
+        path:
+          - AI
+          - 工具
+        sites:
+          - name: CC Switch
+            url: https://www.ccswitch.io/
+            icon: fas fa-link
+            description: ''
+  - name: 服务器
     icon: fas fa-folder
     path:
-      - 资源
-    sites:
-      - name: Greasy Fork
-        url: https://greasyfork.org/zh-CN
-        icon: fas fa-link
-        description: ''
-      - name: 软件下载列表页-软件下载-广联达服务新干线
-        url: https://www.fwxgx.com/softwares/list/28
-        icon: fas fa-link
-        description: ''
-      - name: 【目录】软件下载+安装教程+学习资料教程[6000G]（2023.04.21更新）
-        url: https://mp.weixin.qq.com/s/4-FqtQUy9oEXnSApgMQKFA
-        icon: fas fa-link
-        description: ''
-      - name: 绿色软件 / 办公学习-小刀娱乐网 - 专注活动，软件，教程分享！总之就是网络那些事。
-        url: https://www.x6g.com/html/26.html
-        icon: fas fa-link
-        description: ''
-      - name: 开拔网_机械三维模型|CAD图纸|3D模型|机械模型_非标自动化设备设计师的摇篮
-        url: https://www.sanweimoxing.com/
-        icon: fas fa-link
-        description: ''
-      - name: live | ✯ 一个可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
-        url: https://live.fanmingming.com/
-        icon: fas fa-link
-        description: ''
-      - name: pixiv
-        url: https://www.pixiv.net/
-        icon: fas fa-link
-        description: ''
-      - name: Dns检测|Dns查询 - 站长工具
-        url: https://tool.chinaz.com/dns/
-        icon: fas fa-link
-        description: ''
-      - name: Pornhub
-        url: https://cn.pornhub.com/
-        icon: fas fa-link
-        description: ''
-      - name: win美化工具箱 ★ 枫の主题社
-        url: https://winmoes.com/tools/12948.html
-        icon: fas fa-link
-        description: ''
-      - name: SteamTools
-        url: https://steamtools.net/download
-        icon: fab fa-steam
-        description: ''
-      - name: Download OrangeFox
-        url: https://orangefox.download/
-        icon: fas fa-link
-        description: ''
-  - name: 视频
-    icon: fas fa-folder
-    path:
-      - 视频
+      - 服务器
     subcategories:
-      - name: 字幕
+      - name: 默认分类
         icon: fas fa-folder
         path:
-          - 视频
-          - 字幕
+          - 服务器
+          - 默认分类
         sites:
-          - name: 字幕天堂_电影字幕下载_美剧字幕下载网站
-            url: https://www.zimutiantang.com/
+          - name: 阿里云
+            url: https://www.aliyun.com/
             icon: fas fa-link
             description: ''
-          - name: 亿万同人字幕组
-            url: http://ywtrzm.com/
+          - name: 腾讯云
+            url: https://www.tencentcloud.com/
             icon: fas fa-link
             description: ''
-          - name: 首页 - 射手网(伪) - assrt.net - 字幕下载，字幕组，中文字幕，美剧字幕，英剧字幕，双语字幕，新番字幕
-            url: http://assrt.net/
+          - name: 华为云
+            url: https://www.huaweicloud.com/
             icon: fas fa-link
             description: ''
-          - name: 分享交流下载字幕平台 - SubHD
-            url: https://subhd.tv/
+          - name: 甲骨文
+            url: https://www.oracle.com/cn/
             icon: fas fa-link
             description: ''
-          - name: 分派电影-远鉴字幕组-百度云下载-迅雷电影下载-高清电影-影视大全高清电影迅雷下载
-            url: https://ifenpaidy.com/
+          - name: 亚马逊云
+            url: https://aws.amazon.com/cn/
+            icon: fab fa-amazon
+            description: ''
+          - name: databasemart
+            url: https://console.databasemart.com/
             icon: fas fa-link
             description: ''
-          - name: NEW字幕组
-            url: https://newzmz.com/index.html
+          - name: justhost
+            url: https://justhost.ru/zh
             icon: fas fa-link
             description: ''
-          - name: FIX-The Subtitle Man | FIX-The Subtitle Man
-            url: https://www.zimuxia.cn/#2
+          - name: 薄荷云
+            url: https://www.boheidc.cn/
             icon: fas fa-link
             description: ''
-          - name: 诸神字幕组
-            url: https://subs.kamigami.org/
+          - name: 朝晞云
+            url: https://cloud.zxiyun.com/
             icon: fas fa-link
             description: ''
-          - name: 字幕 - 从最大的开放式字幕库中下载电影及剧集字幕
-            url: https://www.opensubtitles.org/zh
+          - name: 江苏安全云
+            url: http://idcaqy.com/
             icon: fas fa-link
             description: ''
-      - name: 美剧
+          - name: 莱卡云
+            url: https://www.lcayun.com/
+            icon: fas fa-link
+            description: ''
+          - name: 乌云互联
+            url: https://www.wuyunidc.com/
+            icon: fas fa-link
+            description: ''
+          - name: 欢乐云
+            url: https://www.xuei.de/
+            icon: fas fa-link
+            description: ''
+          - name: 拼垃圾
+            url: https://lxc.neko.mo.cn/
+            icon: fas fa-link
+            description: ''
+          - name: OIC
+            url: https://oci.ee
+            icon: fas fa-link
+            description: ''
+          - name: 独角鲸云
+            url: https://fuckip.me/
+            icon: fas fa-link
+            description: ''
+          - name: 懒猫云
+            url: https://lxc.lazycat.wiki/
+            icon: fas fa-link
+            description: ''
+          - name: 宁宁云
+            url: https://nnyunidc.com/
+            icon: fas fa-link
+            description: ''
+          - name: AkileCloud
+            url: https://akile.ai/
+            icon: fas fa-link
+            description: ''
+          - name: vitebits
+            url: https://www.vitebits.com/clientarea
+            icon: fas fa-link
+            description: ''
+          - name: 酷网云
+            url: https://www.corenetcloud.com/console/dashboard
+            icon: fas fa-link
+            description: ''
+          - name: Cloudnium
+            url: https://portal.cloudnium.net/
+            icon: fas fa-link
+            description: ''
+      - name: 工具
         icon: fas fa-folder
         path:
-          - 视频
-          - 美剧
+          - 服务器
+          - 工具
         sites:
-          - name: CHAOSPACE – 蓝光影视 热门美剧 字幕分享 最好用的影视资源站
-            url: https://www.chaospace.fun/
-            icon: fas fa-link
+          - name: 一键SSH命令生成器
+            url: https://yonggekkk.github.io/argosbx/
+            icon: fab fa-github
             description: ''
-          - name: 爱美剧 - 这里是在线美剧天堂,博主带你一起看美剧
-            url: https://www.imeiju.io/
-            icon: fas fa-link
-            description: ''
-          - name: 99美剧网_最新美剧在线观看
-            url: https://www.99meiju.net/
-            icon: fas fa-link
-            description: ''
-      - name: 电影
-        icon: fas fa-folder
-        path:
-          - 视频
-          - 电影
-        sites:
-          - name: 皮皮虾资源 – 愿所有电影都能与你不期而遇
-            url: https://unnn.fun/
-            icon: fas fa-link
-            description: ''
-          - name: 音范丝 | 首页——精选4K蓝光原盘下载,顶级收藏
-            url: https://www.yinfans.net/
-            icon: fas fa-link
-            description: ''
-          - name: 鸭奈飞电影-专注于为国内用户提供免费的奈飞影视
-            url: https://yanetflix.com/
-            icon: fas fa-film
-            description: ''
-          - name: 电影狗 - 专业电影搜索引擎
-            url: https://www.dianyinggou.com/
-            icon: fas fa-link
-            description: ''
-    sites:
-      - name: CMoonTV
-        url: https://cmoontv.dedyn.io/
-        icon: fas fa-link
-        description: ''
-      - name: 腾讯视频 - 中国领先的在线视频媒体平台,海量高清视频在线观看
-        url: https://v.qq.com/channel/choice?channel_2022=1
-        icon: fas fa-link
-        description: ''
-      - name: 爱奇艺-在线视频网站-海量正版高清视频在线观看
-        url: https://www.iqiyi.com/
-        icon: fas fa-link
-        description: ''
-      - name: Bangumi 番组计划
-        url: https://chii.in/
-        icon: fas fa-link
-        description: ''
-      - name: cd解析_vip视频解析_视频解析网站_视频解析_vip解析-影视解析网
-        url: http://www.mmore.xyz/
-        icon: fas fa-link
-        description: ''
-      - name: BL解析-Vip视频在线解析
-        url: https://vip.bljiex.cc/
-        icon: fas fa-link
-        description: ''
-      - name: 片库 - 全网高清影视聚合下载
-        url: https://www.pianku.li/
-        icon: fas fa-link
-        description: ''
-      - name: 最新日本动漫|好看的日本动漫|日本动漫排行榜推荐
-        url: http://www.imomoe.la/list/2.html
-        icon: fas fa-link
-        description: ''
-      - name: AcFun弹幕视频网 - 认真你就输啦 (・ω・)ノ- ( ゜- ゜)つロ
-        url: https://www.acfun.cn/
-        icon: fas fa-link
-        description: ''
-  - name: 游戏
+  - name: Emby
     icon: fas fa-folder
     path:
-      - 游戏
-    sites:
-      - name: 我的世界 Mod下载 Minecraft Mods - 3DM Mod站
-        url: https://mod.3dmgame.com/Minecraft
-        icon: fas fa-link
-        description: ''
-      - name: 游戏_123云盘免登录下载不限速
-        url: https://www.123865.com/s/djlSVv-kNvgd?notoken=1&pwd=vl1V
-        icon: fas fa-link
-        description: ''
+      - Emby
+    subcategories:
+      - name: 默认分类
+        icon: fas fa-folder
+        path:
+          - Emby
+          - 默认分类
+        sites:
+          - name: niuma-hk
+            url: https://niuma.wofd.ccwu.cc/
+            icon: fas fa-link
+            description: ''
+          - name: niuma-us
+            url: https://niuma1.wofd.ccwu.cc/
+            icon: fas fa-link
+            description: ''
+          - name: hohai
+            url: https://tv.hohai.eu.org/
+            icon: fas fa-link
+            description: ''
+          - name: EOOS
+            url: https://eoos.top/
+            icon: fas fa-link
+            description: ''
+          - name: 結束バンド
+            url: https://mambo-hachimi.biliblili.uk
+            icon: fas fa-link
+            description: ''
+          - name: 一起乐呵乐呵
+            url: https://embys.vincent253.us.ci
+            icon: fas fa-link
+            description: ''
+          - name: 乐蛙
+            url: https://ue2.taotu.ink/
+            icon: fas fa-link
+            description: ''
+          - name: 起点站
+            url: https://test.28.al/
+            icon: fas fa-link
+            description: ''
+          - name: 银河列车
+            url: https://twilight.pre-s.com/
+            icon: fas fa-link
+            description: ''
+          - name: 桜落庭
+            url: https://1008610010.xyz
+            icon: fas fa-link
+            description: ''
+          - name: 二刺螈
+            url: https://intro.bgp.yt/
+            icon: fas fa-link
+            description: ''
+          - name: MICU
+            url: https://wiki.micu.me/
+            icon: fas fa-link
+            description: ''
+          - name: 深夜食堂
+            url: https://www.deepemby.com/
+            icon: fas fa-link
+            description: ''
+          - name: EdgeEmby
+            url: https://staryuki.com/
+            icon: fas fa-link
+            description: ''
+          - name: Lunaris Vault
+            url: https://lunarisvault.vip
+            icon: fas fa-link
+            description: ''
+          - name: Mirai
+            url: https://www.miraiemby.com
+            icon: fas fa-link
+            description: ''
