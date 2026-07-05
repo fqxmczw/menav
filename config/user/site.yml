@@ -97,12 +97,12 @@ social:
   - name: GitHub
     url: https://github.com/fqxmczw
     icon: fab fa-github
+  - name: Bilibili
+    url: https://space.bilibili.com/1054456879
+    icon: fas fa-play-circle
   - name: Telegram
     url: https://t.me/wodet_kongcl
     icon: fab fa-telegram
-  - name: Bilibili
-    url: https://space.bilibili.com/1054456879
-    icon: simple-icons:bilibili
   - name: Steam
     url: https://store.steampowered.com
     icon: fab fa-steam
