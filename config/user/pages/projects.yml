@@ -13,21 +13,30 @@ template: projects
 # - 运行 `npm run sync-projects` 会联网抓取 GitHub 仓库信息，并写入 dev/ 缓存（仓库默认 gitignore）
 # - `npm run build` 会 best-effort 刷新缓存；缓存缺失时卡片仅展示标题与描述
 categories:
-  - name: 个人项目
+  - name: 个人储存库
     icon: fas fa-code # 分类图标（Font Awesome）
     sites:
-      - name: MeNav
-        icon: fab fa-github # 手动图标（manual 模式显示；favicon 模式下作为回退）
-        description: 一键部署的个人导航站生成器，支持书签导入与自动构建，轻松整理展示您的网络收藏 # 站点描述
-        url: https://github.com/rbetree/menav
-      - name: MarksVault
+      - name: mizuki-blog
         icon: fab fa-github
-        description: 一个强大的浏览器扩展，用于智能管理、整理和安全备份您的书签数据
-        url: 'https://github.com/rbetree/MarksVault'
-  - name: star
-    icon: fas fa-star
-    sites:
-      - name: CLIProxyAPI
+        description: 下一代 Material Design 3 博客主题（Astro 驱动）
+        url: https://github.com/fqxmczw/mizuki-blog
+      - name: CF-Request-Analytics-Panel
         icon: fab fa-github
-        description: Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
-        url: 'https://github.com/router-for-me/CLIProxyAPI'
+        description: Cloudflare 多账号请求分析面板，支持按账号、区域、域名、子域名、Worker 服务名和时间范围筛选数据进行分析
+        url: https://github.com/fqxmczw/CF-Request-Analytics-Panel
+      - name: cloud-mail
+        icon: fab fa-github
+        description: 基于 Cloudflare 的电子邮件服务
+        url: https://github.com/fqxmczw/cloud-mail
+      - name: linux-xiaomi-raphael-uboot
+        icon: fab fa-github
+        description: linux-xiaomi-raphael-uboot
+        url: https://github.com/fqxmczw/linux-xiaomi-raphael-uboot
+      - name: CloudFlare-ImgBed
+        icon: fab fa-github
+        description: 基于 Cloudflare 构建的无服务器开源文件托管方案，支持图片托管、安全文件存储和个人云盘功能
+        url: https://github.com/fqxmczw/CloudFlare-ImgBed
+      - name: menav
+        icon: fab fa-github
+        description: 一键部署的个人导航站生成器，支持书签导入与自动构建，轻松整理展示您的网络收藏
+        url: https://github.com/fqxmczw/menav
