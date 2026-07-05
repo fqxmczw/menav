@@ -4,7 +4,7 @@
 # 网站基本信息
 title: MeNav
 description: Personal Navigation Station
-author: rbetree
+author: kongcl
 favicon: menav.svg
 logo_text: MeNav
 
@@ -39,7 +39,7 @@ security:
 #   - dark/light：首屏默认主题；用户点击按钮切换后会写入 localStorage 并覆盖该默认值
 #   - system：跟随系统 prefers-color-scheme；用户手动切换后同样会写入 localStorage 并停止跟随
 theme:
-  mode: dark # 可选: dark | light | system（默认 dark）
+  mode: system # 可选: dark | light | system（默认 dark）
 
 # 字体设置：全站基础字体
 # - source: css | google | system
@@ -88,23 +88,23 @@ rss:
 # - username：你的 GitHub 用户名（例如 torvalds）
 # - heatmapColor：热力图主题色（不带 #，例如 339af0）
 github:
-  username: 'rbetree' # 你的 GitHub 用户名（例如 torvalds；为空则 projects 页不展示热力图）
+  username: 'fqxmczw' # 你的 GitHub 用户名（例如 torvalds；为空则 projects 页不展示热力图）
   heatmapColor: 37b24d
   cacheDir: dev # projects 仓库元信息缓存目录（默认 dev，仓库默认 gitignore）
 
 # 社交媒体链接：显示在侧边栏底部；可按需增删
 social:
   - name: GitHub
-    url: https://github.com
+    url: https://github.com/fqxmczw
     icon: fab fa-github
   - name: Telegram
-    url: https://t.me
+    url: https://t.me/wodet_kongcl
     icon: fab fa-telegram
-  - name: Twitter
-    url: https://twitter.com
-    icon: fab fa-twitter
+  - name: Bilibili
+    url: https://space.bilibili.com/1054456879
+    icon: https://www.bilibili.com/favicon.ico
   - name: Steam
-    url: https://steam.com
+    url: https://store.steampowered.com
     icon: fab fa-steam
 
 # 导航配置（顺序第一项即首页/默认打开页）
