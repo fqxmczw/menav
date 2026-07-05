@@ -6,6 +6,15 @@ title: 我的书签
 subtitle: 从浏览器导入的书签收藏
 template: bookmarks
 categories:
+  - name: 根目录书签
+    icon: fas fa-star
+    path:
+      - 根目录书签
+    sites:
+      - name: '1'
+        url: http://0.0.0.1/
+        icon: fas fa-link
+        description: ''
   - name: 常用
     icon: fas fa-folder
     path:
@@ -38,7 +47,7 @@ categories:
             icon: fas fa-link
             description: ''
           - name: 我的盘搜
-            url: https://pansou.wofd.ccwu.cc
+            url: https://pansou.wofd.ccwu.cc/
             icon: fas fa-link
             description: ''
           - name: Emby 服务器探针
@@ -66,11 +75,15 @@ categories:
             icon: fas fa-link
             description: ''
           - name: niuma自建
-            url: https://hk123.wofd.ccwu.cc
+            url: https://hk123.wofd.ccwu.cc/
             icon: fas fa-link
             description: ''
           - name: niuma自建1
-            url: https://us123.wofd.ccwu.cc
+            url: https://us123.wofd.ccwu.cc/
+            icon: fas fa-link
+            description: ''
+          - name: Card-Tab
+            url: https://tab.woblog.ccwu.cc/
             icon: fas fa-link
             description: ''
       - name: 视频
@@ -141,7 +154,7 @@ categories:
           - 默认分类
         sites:
           - name: Claude
-            url: https://claude.ai
+            url: https://claude.ai/
             icon: fas fa-link
             description: ''
           - name: ChatGPT
@@ -252,7 +265,7 @@ categories:
             icon: fas fa-link
             description: ''
           - name: OIC
-            url: https://oci.ee
+            url: https://oci.ee/
             icon: fas fa-link
             description: ''
           - name: 独角鲸云
@@ -321,11 +334,11 @@ categories:
             icon: fas fa-link
             description: ''
           - name: 結束バンド
-            url: https://mambo-hachimi.biliblili.uk
+            url: https://mambo-hachimi.biliblili.uk/
             icon: fas fa-link
             description: ''
           - name: 一起乐呵乐呵
-            url: https://embys.vincent253.us.ci
+            url: https://embys.vincent253.us.ci/
             icon: fas fa-link
             description: ''
           - name: 乐蛙
@@ -341,7 +354,7 @@ categories:
             icon: fas fa-link
             description: ''
           - name: 桜落庭
-            url: https://1008610010.xyz
+            url: https://1008610010.xyz/
             icon: fas fa-link
             description: ''
           - name: 二刺螈
@@ -361,10 +374,10 @@ categories:
             icon: fas fa-link
             description: ''
           - name: Lunaris Vault
-            url: https://lunarisvault.vip
+            url: https://lunarisvault.vip/
             icon: fas fa-link
             description: ''
           - name: Mirai
-            url: https://www.miraiemby.com
+            url: https://www.miraiemby.com/
             icon: fas fa-link
             description: ''
