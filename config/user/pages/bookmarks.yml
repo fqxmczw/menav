@@ -301,74 +301,68 @@ categories:
     icon: fas fa-folder
     path:
       - Emby
-    subcategories:
-      - name: 默认分类
-        icon: fas fa-folder
-        path:
-          - Emby
-          - 默认分类
-        sites:
-          - name: niuma-hk
-            url: https://niuma.wofd.ccwu.cc/
-            icon: fas fa-link
-            description: ''
-          - name: niuma-us
-            url: https://niuma1.wofd.ccwu.cc/
-            icon: fas fa-link
-            description: ''
-          - name: hohai
-            url: https://tv.hohai.eu.org/
-            icon: fas fa-link
-            description: ''
-          - name: EOOS
-            url: https://eoos.top/
-            icon: fas fa-link
-            description: ''
-          - name: 結束バンド
-            url: https://mambo-hachimi.biliblili.uk/
-            icon: fas fa-link
-            description: ''
-          - name: 一起乐呵乐呵
-            url: https://embys.vincent253.us.ci/
-            icon: fas fa-link
-            description: ''
-          - name: 乐蛙
-            url: https://ue2.taotu.ink/
-            icon: fas fa-link
-            description: ''
-          - name: 起点站
-            url: https://test.28.al/
-            icon: fas fa-link
-            description: ''
-          - name: 银河列车
-            url: https://twilight.pre-s.com/
-            icon: fas fa-link
-            description: ''
-          - name: 桜落庭
-            url: https://1008610010.xyz/
-            icon: fas fa-link
-            description: ''
-          - name: 二刺螈
-            url: https://intro.bgp.yt/
-            icon: fas fa-link
-            description: ''
-          - name: MICU
-            url: https://wiki.micu.me/
-            icon: fas fa-link
-            description: ''
-          - name: 深夜食堂
-            url: https://www.deepemby.com/
-            icon: fas fa-link
-            description: ''
-          - name: EdgeEmby
-            url: https://staryuki.com/
-            icon: fas fa-link
-            description: ''
-          - name: Lunaris Vault
-            url: https://lunarisvault.vip/
-            icon: fas fa-link
-            description: ''
-          - name: Mirai
-            url: https://www.miraiemby.com/
-            icon: fas fa-link
-            description: ''
+    sites:
+      - name: niuma-hk
+        url: https://niuma.wofd.ccwu.cc/
+        icon: fas fa-link
+        description: ''
+      - name: niuma-us
+        url: https://niuma1.wofd.ccwu.cc/
+        icon: fas fa-link
+        description: ''
+      - name: hohai
+        url: https://tv.hohai.eu.org/
+        icon: fas fa-link
+        description: ''
+      - name: EOOS
+        url: https://eoos.top/
+        icon: fas fa-link
+        description: ''
+      - name: 結束バンド
+        url: https://mambo-hachimi.biliblili.uk/
+        icon: fas fa-link
+        description: ''
+      - name: 一起乐呵乐呵
+        url: https://embys.vincent253.us.ci/
+        icon: fas fa-link
+        description: ''
+      - name: 乐蛙
+        url: https://ue2.taotu.ink/
+        icon: fas fa-link
+        description: ''
+      - name: 起点站
+        url: https://test.28.al/
+        icon: fas fa-link
+        description: ''
+      - name: 银河列车
+        url: https://twilight.pre-s.com/
+        icon: fas fa-link
+        description: ''
+      - name: 桜落庭
+        url: https://1008610010.xyz/
+        icon: fas fa-link
+        description: ''
+      - name: 二刺螈
+        url: https://intro.bgp.yt/
+        icon: fas fa-link
+        description: ''
+      - name: MICU
+        url: https://wiki.micu.me/
+        icon: fas fa-link
+        description: ''
+      - name: 深夜食堂
+        url: https://www.deepemby.com/
+        icon: fas fa-link
+        description: ''
+      - name: EdgeEmby
+        url: https://staryuki.com/
+        icon: fas fa-link
+        description: ''
+      - name: Lunaris Vault
+        url: https://lunarisvault.vip/
+        icon: fas fa-link
+        description: ''
+      - name: Mirai
+        url: https://www.miraiemby.com/
+        icon: fas fa-link
+        description: ''
