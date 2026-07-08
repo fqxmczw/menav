@@ -366,3 +366,16 @@ categories:
         url: https://www.miraiemby.com/
         icon: fas fa-link
         description: ''
+  - name: 杂七杂八
+    icon: fas fa-folder
+    path:
+      - 杂七杂八
+    sites:
+      - name: 我的 Telegram
+        url: https://my.telegram.org/
+        icon: fab fa-telegram
+        description: ''
+      - name: 创建新应用程序
+        url: https://my.telegram.org/apps
+        icon: fab fa-telegram
+        description: ''
