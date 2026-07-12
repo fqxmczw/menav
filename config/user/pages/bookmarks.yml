@@ -379,3 +379,11 @@ categories:
         url: https://my.telegram.org/apps
         icon: fab fa-telegram
         description: ''
+      - name: TODB
+        url: https://theotherdb.org/
+        icon: fas fa-link
+        description: ''
+      - name: TMDB
+        url: https://www.themoviedb.org/u/%E6%B2%83%E5%BE%B7%E5%A4%A9
+        icon: fas fa-link
+        description: ''
