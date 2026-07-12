@@ -330,6 +330,10 @@ categories:
         url: https://embys.vincent253.us.ci/
         icon: fas fa-link
         description: ''
+      - name: NoxEmby
+        url: https://cs.inemby.us.ci/?tab=profile
+        icon: fas fa-link
+        description: ''
       - name: 乐蛙
         url: https://ue2.taotu.ink/
         icon: fas fa-link
