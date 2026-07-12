@@ -45,6 +45,10 @@ categories:
             url: https://embyjk.wofd.ccwu.cc/
             icon: fas fa-link
             description: ''
+          - name: Emby保号后台
+            url: https://cf99.dpdns.org/
+            icon: fas fa-link
+            description: ''
           - name: 我的订阅管理
             url: https://dy.klmail.ccwu.cc/
             icon: fas fa-link
