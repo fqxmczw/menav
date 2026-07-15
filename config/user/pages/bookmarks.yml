@@ -33,6 +33,10 @@ categories:
             url: https://imgbed.woblog.ccwu.cc/dashboard
             icon: fas fa-link
             description: ''
+          - name: Private Notes
+            url: https://notes.klmail.ccwu.cc/
+            icon: fas fa-link
+            description: ''
           - name: Komari探针
             url: https://komari.woblog.ccwu.cc/
             icon: fas fa-link
