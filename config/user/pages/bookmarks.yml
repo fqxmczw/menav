@@ -21,6 +21,10 @@ categories:
             url: https://woblog.ccwu.cc/
             icon: fas fa-link
             description: ''
+          - name: NodeWarden
+            url: https://nodewarden.klmail.ccwu.cc/vault
+            icon: fas fa-link
+            description: ''
           - name: 我的临时邮箱
             url: https://mail.klmail.ccwu.cc/
             icon: fas fa-link
@@ -83,10 +87,6 @@ categories:
             description: ''
           - name: Card-Tab
             url: https://tab.woblog.ccwu.cc/
-            icon: fas fa-link
-            description: ''
-          - name: NodeWarden
-            url: https://nodewarden.klmail.ccwu.cc/vault
             icon: fas fa-link
             description: ''
       - name: 视频
