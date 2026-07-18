@@ -85,6 +85,10 @@ categories:
             url: https://tab.woblog.ccwu.cc/
             icon: fas fa-link
             description: ''
+          - name: NodeWarden
+            url: https://nodewarden.klmail.ccwu.cc/vault
+            icon: fas fa-link
+            description: ''
       - name: 视频
         icon: fas fa-folder
         path:
