@@ -141,6 +141,29 @@ categories:
             url: https://my.dnshe.com/
             icon: fas fa-link
             description: ''
+  - name: 学习
+    icon: fas fa-folder
+    path:
+      - 学习
+    subcategories:
+      - name: 查找文献
+        icon: fas fa-folder
+        path:
+          - 学习
+          - 查找文献
+        sites:
+          - name: 中国知网
+            url: https://www.cnki.net/
+            icon: fas fa-link
+            description: ''
+          - name: 科睿唯安
+            url: https://access.clarivate.com/login?app=wos&amp;alternative=true&amp;goto=https:%2F%2Fwww.webofknowledge.com&amp;shibShireURL=https:%2F%2Fwww.webofknowledge.com%2F%3Fauth%3DShibboleth&amp;shibReturnURL=https:%2F%2Fwww.webofknowledge.com%2F%3Fmode%3DNextgen%26action%3Dtransfer%26path%3D%252Fwos%26DestApp%3DUA&amp;referrer=mode%3DNextgen%26path%3D%252Fwos%26DestApp%3DUA%26action%3Dtransfer&amp;roaming=true&amp;loginId=29076czw@gmail.com
+            icon: fas fa-envelope
+            description: ''
+          - name: Scopus - 搜索作者个人信息
+            url: https://www.scopus.com/freelookup/form/author.uri
+            icon: fas fa-link
+            description: ''
   - name: AI
     icon: fas fa-folder
     path:
@@ -196,6 +219,11 @@ categories:
             url: https://www.ccswitch.io/
             icon: fas fa-link
             description: ''
+    sites:
+      - name: 搜索 | M365 Copilot
+        url: https://m365.cloud.microsoft/search?fromcode=cmmiadtp424&amp;refOrigin=Bing&amp;origindomain=Office&amp;auth=1&amp;client-request-id=51d2bff2-8b89-412e-b3e0-e0b9f4e55da5&amp;redirfrom=cosmicRingCookie
+        icon: fas fa-link
+        description: ''
   - name: 服务器
     icon: fas fa-folder
     path:
