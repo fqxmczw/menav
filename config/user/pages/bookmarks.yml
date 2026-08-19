@@ -319,10 +319,6 @@ categories:
             url: https://app.dgnlinks.com/console/overview
             icon: fas fa-link
             description: ''
-          - name: Meridian — Emby 反代管理面板
-            url: https://fd.cattle.ccwu.cc/
-            icon: fas fa-link
-            description: ''
       - name: 工具
         icon: fas fa-folder
         path:
