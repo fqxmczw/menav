@@ -45,10 +45,6 @@ categories:
             url: https://komari.woblog.ccwu.cc/
             icon: fas fa-link
             description: ''
-          - name: 我的盘搜
-            url: https://pansou.wofd.ccwu.cc/
-            icon: fas fa-link
-            description: ''
           - name: Emby 服务器探针
             url: https://embyjk.wofd.ccwu.cc/
             icon: fas fa-link
@@ -61,8 +57,8 @@ categories:
             url: https://dy.klmail.ccwu.cc/
             icon: fas fa-link
             description: ''
-          - name: 我的反代面板
-            url: https://kongcl.wofd.ccwu.cc/
+          - name: Meridian — Emby 反代管理面板
+            url: https://fd.cattle.ccwu.cc/#dashboard
             icon: fas fa-link
             description: ''
           - name: 我的弹幕API
@@ -105,6 +101,10 @@ categories:
             description: ''
           - name: 自定义媒体库广场
             url: https://app.dreamby.vip/
+            icon: fas fa-link
+            description: ''
+          - name: 癫影 — 资源 / 解锁 / 分享
+            url: https://m.dian115.com/
             icon: fas fa-link
             description: ''
       - name: 开发
@@ -315,6 +315,14 @@ categories:
             url: https://portal.cloudnium.net/
             icon: fas fa-link
             description: ''
+          - name: DGN Cloud
+            url: https://app.dgnlinks.com/console/overview
+            icon: fas fa-link
+            description: ''
+          - name: Meridian — Emby 反代管理面板
+            url: https://fd.cattle.ccwu.cc/
+            icon: fas fa-link
+            description: ''
       - name: 工具
         icon: fas fa-folder
         path:
@@ -417,5 +425,9 @@ categories:
         description: ''
       - name: TMDB
         url: https://www.themoviedb.org/u/%E6%B2%83%E5%BE%B7%E5%A4%A9
+        icon: fas fa-link
+        description: ''
+      - name: 免费JWT密钥生成器 | 安全的HS256、HS384、HS512密钥在线生成
+        url: https://jwtsecretkeygenerator.com/zh/
         icon: fas fa-link
         description: ''
