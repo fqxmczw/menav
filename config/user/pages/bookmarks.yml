@@ -133,6 +133,28 @@ categories:
             url: https://my.dnshe.com/
             icon: fas fa-link
             description: ""
+      - name: 邮箱
+        icon: fas fa-folder
+        path:
+          - 常用
+          - 邮箱
+        sites:
+          - name: QQ邮箱
+            url: https://wx.mail.qq.com/home/index?sid=zQczaoxxUnouT1NHAK1TTAAA#/list/1
+            icon: fas fa-link
+            description: ""
+          - name: Gmail
+            url: https://mail.google.com/mail/u/0/?service=mail&amp;flowName=GlifWebSignIn&amp;flowEntry=AccountChooser&amp;ec=asw-gmail-globalnav-signin#inbox
+            icon: fab fa-google
+            description: ""
+          - name: 上海海事大学邮箱
+            url: https://mail.stu.shmtu.edu.cn/js6/main.jsp?sid=f0MAL3T2N032WE2FShaMKoM9LMi1eXn6&amp;show_window=0&amp;show_new=0&amp;hl=zh_CN#module=mbox.ListModule%7C%7B%22fid%22%3A%221%22%2C%22order%22%3A%22date%22%2C%22desc%22%3Atrue%7D
+            icon: fas fa-link
+            description: ""
+          - name: 网易VIP邮箱
+            url: https://webmail.vip.163.com/js6/main.jsp?sid=wAejxIhhwRZHjMGmCPGXCLVKzspmhkGQ&amp;df=unknow#module=welcome.WelcomeModule%7C%7B%7D
+            icon: fas fa-link
+            description: ""
   - name: 学习
     icon: fas fa-folder
     path:
@@ -150,6 +172,10 @@ categories:
             description: ""
           - name: 上海海事大学交通运输学院
             url: https://ctc.shmtu.edu.cn/
+            icon: fas fa-link
+            description: ""
+          - name: 上海海事大学-数字平台
+            url: https://my.shmtu.edu.cn/
             icon: fas fa-link
             description: ""
       - name: 查找文献
@@ -205,6 +231,10 @@ categories:
             url: https://www.doubao.com/chat
             icon: fas fa-link
             description: ""
+          - name: Copilot
+            url: https://m365.cloud.microsoft/search?fromcode=cmmiadtp424&amp;refOrigin=Bing&amp;origindomain=Office&amp;auth=1&amp;client-request-id=51d2bff2-8b89-412e-b3e0-e0b9f4e55da5&amp;redirfrom=cosmicRingCookie
+            icon: fas fa-link
+            description: ""
       - name: 中转站
         icon: fas fa-folder
         path:
@@ -225,11 +255,6 @@ categories:
             url: https://www.ccswitch.io/
             icon: fas fa-link
             description: ""
-    sites:
-      - name: 搜索 | M365 Copilot
-        url: https://m365.cloud.microsoft/search?fromcode=cmmiadtp424&amp;refOrigin=Bing&amp;origindomain=Office&amp;auth=1&amp;client-request-id=51d2bff2-8b89-412e-b3e0-e0b9f4e55da5&amp;redirfrom=cosmicRingCookie
-        icon: fas fa-link
-        description: ""
   - name: 服务器
     icon: fas fa-folder
     path:
