@@ -20,59 +20,59 @@ categories:
           - name: 我的博客
             url: https://woblog.ccwu.cc/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: NodeWarden
             url: https://nodewarden.klmail.ccwu.cc/vault
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: 我的临时邮箱
             url: https://mail.klmail.ccwu.cc/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: CF Request Analytics
             url: https://analytics.woblog.ccwu.cc/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: 我的图床
             url: https://imgbed.woblog.ccwu.cc/dashboard
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: Private Notes
             url: https://notes.klmail.ccwu.cc/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: 破烂の小🐔
             url: https://komari.cattle.ccwu.cc/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: Emby 服务器探针
             url: https://embyjk.wofd.ccwu.cc/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: Emby保号后台
             url: https://cf99.dpdns.org/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: 我的订阅管理
             url: https://dy.klmail.ccwu.cc/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: Meridian — Emby 反代管理面板
             url: https://fd.cattle.ccwu.cc/#dashboard
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: 我的弹幕API
             url: https://danmu.wofd.ccwu.cc/134679
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: edgetunnel面板
             url: https://edt.wocf.ccwu.cc/admin
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: Card-Tab
             url: https://tab.woblog.ccwu.cc/
             icon: fas fa-link
-            description: ''
+            description: ""
       - name: 视频
         icon: fas fa-folder
         path:
@@ -82,31 +82,31 @@ categories:
           - name: bilibili
             url: https://www.bilibili.com/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: YouTube
             url: https://www.youtube.com/
             icon: fab fa-youtube
-            description: ''
+            description: ""
           - name: 抖音
             url: https://www.douyin.com/jingxuan
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: TikTok
             url: https://www.tiktok.com/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: CMoonTV
             url: https://cmoontv.dedyn.io/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: 自定义媒体库广场
             url: https://app.dreamby.vip/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: 癫影 — 资源 / 解锁 / 分享
             url: https://m.dian115.com/
             icon: fas fa-link
-            description: ''
+            description: ""
       - name: 开发
         icon: fas fa-folder
         path:
@@ -116,23 +116,23 @@ categories:
           - name: cloudflare
             url: https://dash.cloudflare.com/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: Github
             url: https://github.com/fqxmczw
             icon: fab fa-github
-            description: ''
+            description: ""
           - name: Gitee
             url: https://gitee.com/feiqiuxiaomao
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: vercel
             url: https://vercel.com/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: DNSHE
             url: https://my.dnshe.com/
             icon: fas fa-link
-            description: ''
+            description: ""
   - name: 学习
     icon: fas fa-folder
     path:
@@ -147,11 +147,11 @@ categories:
           - name: 上海海事大学研究生院
             url: https://gs.shmtu.edu.cn/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: 上海海事大学交通运输学院
             url: https://ctc.shmtu.edu.cn/
             icon: fas fa-link
-            description: ''
+            description: ""
       - name: 查找文献
         icon: fas fa-folder
         path:
@@ -161,15 +161,15 @@ categories:
           - name: 中国知网
             url: https://www.cnki.net/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: 科睿唯安
             url: https://access.clarivate.com/login?app=wos&amp;alternative=true&amp;goto=https:%2F%2Fwww.webofknowledge.com&amp;shibShireURL=https:%2F%2Fwww.webofknowledge.com%2F%3Fauth%3DShibboleth&amp;shibReturnURL=https:%2F%2Fwww.webofknowledge.com%2F%3Fmode%3DNextgen%26action%3Dtransfer%26path%3D%252Fwos%26DestApp%3DUA&amp;referrer=mode%3DNextgen%26path%3D%252Fwos%26DestApp%3DUA%26action%3Dtransfer&amp;roaming=true&amp;loginId=29076czw@gmail.com
             icon: fas fa-envelope
-            description: ''
+            description: ""
           - name: Scopus - 搜索作者个人信息
             url: https://www.scopus.com/freelookup/form/author.uri
             icon: fas fa-link
-            description: ''
+            description: ""
   - name: AI
     icon: fas fa-folder
     path:
@@ -184,27 +184,27 @@ categories:
           - name: Claude
             url: https://claude.ai/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: ChatGPT
             url: https://chatgpt.com/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: Deepseek
             url: https://chat.deepseek.com/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: Gemini
             url: https://gemini.google.com/
             icon: fab fa-google
-            description: ''
+            description: ""
           - name: cto
             url: https://cto.new/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: 豆包
             url: https://www.doubao.com/chat
             icon: fas fa-link
-            description: ''
+            description: ""
       - name: 中转站
         icon: fas fa-folder
         path:
@@ -214,7 +214,7 @@ categories:
           - name: Moniker
             url: https://aimoniker.top/console
             icon: fas fa-link
-            description: ''
+            description: ""
       - name: 工具
         icon: fas fa-folder
         path:
@@ -224,12 +224,12 @@ categories:
           - name: CC Switch
             url: https://www.ccswitch.io/
             icon: fas fa-link
-            description: ''
+            description: ""
     sites:
       - name: 搜索 | M365 Copilot
         url: https://m365.cloud.microsoft/search?fromcode=cmmiadtp424&amp;refOrigin=Bing&amp;origindomain=Office&amp;auth=1&amp;client-request-id=51d2bff2-8b89-412e-b3e0-e0b9f4e55da5&amp;redirfrom=cosmicRingCookie
         icon: fas fa-link
-        description: ''
+        description: ""
   - name: 服务器
     icon: fas fa-folder
     path:
@@ -244,95 +244,95 @@ categories:
           - name: 阿里云
             url: https://www.aliyun.com/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: 腾讯云
             url: https://www.tencentcloud.com/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: 华为云
             url: https://www.huaweicloud.com/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: 甲骨文
             url: https://www.oracle.com/cn/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: 亚马逊云
             url: https://aws.amazon.com/cn/
             icon: fab fa-amazon
-            description: ''
+            description: ""
           - name: databasemart
             url: https://console.databasemart.com/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: justhost
             url: https://justhost.ru/zh
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: 薄荷云
             url: https://www.boheidc.cn/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: 朝晞云
             url: https://cloud.zxiyun.com/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: 江苏安全云
             url: http://idcaqy.com/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: 莱卡云
             url: https://www.lcayun.com/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: 乌云互联
             url: https://www.wuyunidc.com/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: 欢乐云
             url: https://www.xuei.de/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: 拼垃圾
             url: https://lxc.neko.mo.cn/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: OIC
             url: https://oci.ee/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: 独角鲸云
             url: https://fuckip.me/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: 懒猫云
             url: https://lxc.lazycat.wiki/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: 宁宁云
             url: https://nnyunidc.com/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: AkileCloud
             url: https://akile.ai/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: vitebits
             url: https://www.vitebits.com/clientarea
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: 酷网云
             url: https://www.corenetcloud.com/console/dashboard
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: Cloudnium
             url: https://portal.cloudnium.net/
             icon: fas fa-link
-            description: ''
+            description: ""
           - name: DGN Cloud
             url: https://app.dgnlinks.com/console/overview
             icon: fas fa-link
-            description: ''
+            description: ""
       - name: 工具
         icon: fas fa-folder
         path:
@@ -342,7 +342,7 @@ categories:
           - name: 一键SSH命令生成器
             url: https://yonggekkk.github.io/argosbx/
             icon: fab fa-github
-            description: ''
+            description: ""
   - name: Emby
     icon: fas fa-folder
     path:
@@ -351,59 +351,59 @@ categories:
       - name: hohai
         url: https://tv.hohai.eu.org/
         icon: fas fa-link
-        description: ''
+        description: ""
       - name: EOOS
         url: https://eoos.top/
         icon: fas fa-link
-        description: ''
+        description: ""
       - name: 結束バンド
         url: https://mambo-hachimi.biliblili.uk/
         icon: fas fa-link
-        description: ''
+        description: ""
       - name: 一起乐呵乐呵
         url: https://embys.vincent253.us.ci/
         icon: fas fa-link
-        description: ''
+        description: ""
       - name: NoxEmby
         url: https://cs.inemby.us.ci/?tab=profile
         icon: fas fa-link
-        description: ''
+        description: ""
       - name: 乐蛙
         url: https://ue2.taotu.ink/
         icon: fas fa-link
-        description: ''
+        description: ""
       - name: 起点站
         url: https://test.28.al/
         icon: fas fa-link
-        description: ''
+        description: ""
       - name: 银河列车
         url: https://twilight.pre-s.com/
         icon: fas fa-link
-        description: ''
+        description: ""
       - name: 二刺螈
         url: https://intro.bgp.yt/
         icon: fas fa-link
-        description: ''
+        description: ""
       - name: MICU
         url: https://wiki.micu.me/
         icon: fas fa-link
-        description: ''
+        description: ""
       - name: 深夜食堂
         url: https://www.deepemby.com/
         icon: fas fa-link
-        description: ''
+        description: ""
       - name: EdgeEmby
         url: https://staryuki.com/
         icon: fas fa-link
-        description: ''
+        description: ""
       - name: Lunaris Vault
         url: https://lunarisvault.vip/
         icon: fas fa-link
-        description: ''
+        description: ""
       - name: Mirai
         url: https://www.miraiemby.com/
         icon: fas fa-link
-        description: ''
+        description: ""
   - name: 杂七杂八
     icon: fas fa-folder
     path:
@@ -412,20 +412,20 @@ categories:
       - name: 我的 Telegram
         url: https://my.telegram.org/
         icon: fab fa-telegram
-        description: ''
+        description: ""
       - name: 创建新应用程序
         url: https://my.telegram.org/apps
         icon: fab fa-telegram
-        description: ''
+        description: ""
       - name: TODB
         url: https://theotherdb.org/
         icon: fas fa-link
-        description: ''
+        description: ""
       - name: TMDB
         url: https://www.themoviedb.org/u/%E6%B2%83%E5%BE%B7%E5%A4%A9
         icon: fas fa-link
-        description: ''
+        description: ""
       - name: 免费JWT密钥生成器 | 安全的HS256、HS384、HS512密钥在线生成
         url: https://jwtsecretkeygenerator.com/zh/
         icon: fas fa-link
-        description: ''
+        description: ""
