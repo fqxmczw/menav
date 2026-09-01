@@ -103,7 +103,7 @@ jobs:
             exit 0
           fi
 
-          git commit -m "chore(bookmarks): 导入书签并写回用户配置"
+          git commit --no-verify -m "chore(bookmarks): 导入书签并写回用户配置"
           git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git" HEAD:${{ github.ref_name }}
       # --- 书签处理步骤结束 ---
       # --- 网站构建和部署步骤 ---
