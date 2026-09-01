@@ -138,6 +138,20 @@ categories:
     path:
       - 学习
     subcategories:
+      - name: 官网
+        icon: fas fa-folder
+        path:
+          - 学习
+          - 官网
+        sites:
+          - name: 上海海事大学研究生院
+            url: https://gs.shmtu.edu.cn/
+            icon: fas fa-link
+            description: ''
+          - name: 上海海事大学交通运输学院
+            url: https://ctc.shmtu.edu.cn/
+            icon: fas fa-link
+            description: ''
       - name: 查找文献
         icon: fas fa-folder
         path:
