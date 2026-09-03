@@ -245,6 +245,14 @@ categories:
             url: https://aimoniker.top/console
             icon: fas fa-link
             description: ""
+          - name: JustDoWork
+            url: https://api.justwoker.icu/dashboard/overview
+            icon: fas fa-link
+            description: ""
+          - name: Agent Router
+            url: https://agentrouter.org/console
+            icon: fas fa-link
+            description: ""
       - name: 工具
         icon: fas fa-folder
         path:
