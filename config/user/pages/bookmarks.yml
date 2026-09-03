@@ -188,13 +188,21 @@ categories:
             url: https://www.cnki.net/
             icon: fas fa-link
             description: ""
-          - name: 科睿唯安
+          - name: Web of Science
             url: https://access.clarivate.com/login?app=wos&amp;alternative=true&amp;goto=https:%2F%2Fwww.webofknowledge.com&amp;shibShireURL=https:%2F%2Fwww.webofknowledge.com%2F%3Fauth%3DShibboleth&amp;shibReturnURL=https:%2F%2Fwww.webofknowledge.com%2F%3Fmode%3DNextgen%26action%3Dtransfer%26path%3D%252Fwos%26DestApp%3DUA&amp;referrer=mode%3DNextgen%26path%3D%252Fwos%26DestApp%3DUA%26action%3Dtransfer&amp;roaming=true&amp;loginId=29076czw@gmail.com
             icon: fas fa-envelope
             description: ""
           - name: Scopus - 搜索作者个人信息
             url: https://www.scopus.com/freelookup/form/author.uri
             icon: fas fa-link
+            description: ""
+          - name: CALIS外文期刊网
+            url: https://ccc2.calis.edu.cn/ccc/index
+            icon: fas fa-link
+            description: ""
+          - name: Google 学术搜索
+            url: https://scholar.google.com/?hl=zh-cn
+            icon: fab fa-google
             description: ""
   - name: AI
     icon: fas fa-folder
