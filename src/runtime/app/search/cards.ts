@@ -31,7 +31,7 @@ function createCardFromIndexItem(item: RuntimeSearchIndexItem): HTMLElement {
   if (item.faviconUrl) card.dataset.faviconUrl = item.faviconUrl;
   if (item.forceIconMode) card.dataset.forceIconMode = item.forceIconMode;
   card.dataset.description = item.description || '';
-  card.dataset.tooltip = `${item.title} - ${item.description || item.url || ''}`;
+  card.dataset.tooltip = `${item.title}${item.description ? ` - ${item.description}` : ''}`;
   if (item.publishedAt) card.dataset.publishedAt = item.publishedAt;
   if (item.source) card.dataset.source = item.source;
   if (item.external) {
