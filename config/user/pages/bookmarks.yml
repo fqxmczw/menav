@@ -204,6 +204,24 @@ categories:
             url: https://scholar.google.com/?hl=zh-cn
             icon: fab fa-google
             description: ""
+          - name: arXiv.org 预印本存档
+            url: https://arxiv.org/
+            icon: fas fa-link
+            description: ""
+      - name: 工具
+        icon: fas fa-folder
+        path:
+          - 学习
+          - 工具
+        sites:
+          - name: Zotero
+            url: https://www.zotero.org/
+            icon: fas fa-link
+            description: ""
+          - name: Zotero 中文社区
+            url: https://zotero-chinese.com/
+            icon: fas fa-link
+            description: ""
   - name: AI
     icon: fas fa-folder
     path:
