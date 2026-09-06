@@ -73,40 +73,6 @@ categories:
             url: https://tab.woblog.ccwu.cc/
             icon: fas fa-link
             description: ""
-      - name: 视频
-        icon: fas fa-folder
-        path:
-          - 常用
-          - 视频
-        sites:
-          - name: bilibili
-            url: https://www.bilibili.com/
-            icon: fas fa-link
-            description: ""
-          - name: YouTube
-            url: https://www.youtube.com/
-            icon: fab fa-youtube
-            description: ""
-          - name: 抖音
-            url: https://www.douyin.com/jingxuan
-            icon: fas fa-link
-            description: ""
-          - name: TikTok
-            url: https://www.tiktok.com/
-            icon: fas fa-link
-            description: ""
-          - name: CMoonTV
-            url: https://cmoontv.dedyn.io/
-            icon: fas fa-link
-            description: ""
-          - name: 自定义媒体库广场
-            url: https://app.dreamby.vip/
-            icon: fas fa-link
-            description: ""
-          - name: 癫影 — 资源 / 解锁 / 分享
-            url: https://m.dian115.com/
-            icon: fas fa-link
-            description: ""
       - name: 开发
         icon: fas fa-folder
         path:
@@ -127,6 +93,10 @@ categories:
             description: ""
           - name: vercel
             url: https://vercel.com/
+            icon: fas fa-link
+            description: ""
+          - name: NodeSeek
+            url: https://www.nodeseek.com/
             icon: fas fa-link
             description: ""
           - name: DNSHE
@@ -222,73 +192,77 @@ categories:
             url: https://zotero-chinese.com/
             icon: fas fa-link
             description: ""
-  - name: AI
-    icon: fas fa-folder
-    path:
-      - AI
-    subcategories:
-      - name: 默认分类
+      - name: AI
         icon: fas fa-folder
         path:
+          - 学习
           - AI
-          - 默认分类
-        sites:
-          - name: Claude
-            url: https://claude.ai/
-            icon: fas fa-link
-            description: ""
-          - name: ChatGPT
-            url: https://chatgpt.com/
-            icon: fas fa-link
-            description: ""
-          - name: Deepseek
-            url: https://chat.deepseek.com/
-            icon: fas fa-link
-            description: ""
-          - name: Gemini
-            url: https://gemini.google.com/
-            icon: fab fa-google
-            description: ""
-          - name: cto
-            url: https://cto.new/
-            icon: fas fa-link
-            description: ""
-          - name: 豆包
-            url: https://www.doubao.com/chat
-            icon: fas fa-link
-            description: ""
-          - name: Copilot
-            url: https://m365.cloud.microsoft/search?fromcode=cmmiadtp424&amp;refOrigin=Bing&amp;origindomain=Office&amp;auth=1&amp;client-request-id=51d2bff2-8b89-412e-b3e0-e0b9f4e55da5&amp;redirfrom=cosmicRingCookie
-            icon: fas fa-link
-            description: ""
-      - name: 中转站
-        icon: fas fa-folder
-        path:
-          - AI
-          - 中转站
-        sites:
-          - name: Moniker
-            url: https://aimoniker.top/console
-            icon: fas fa-link
-            description: ""
-          - name: JustDoWork
-            url: https://api.justwoker.icu/dashboard/overview
-            icon: fas fa-link
-            description: ""
-          - name: Agent Router
-            url: https://agentrouter.org/console
-            icon: fas fa-link
-            description: ""
-      - name: 工具
-        icon: fas fa-folder
-        path:
-          - AI
-          - 工具
-        sites:
-          - name: CC Switch
-            url: https://www.ccswitch.io/
-            icon: fas fa-link
-            description: ""
+        groups:
+          - name: 默认分类
+            icon: fas fa-folder
+            path:
+              - 学习
+              - AI
+              - 默认分类
+            sites:
+              - name: Claude
+                url: https://claude.ai/
+                icon: fas fa-link
+                description: ""
+              - name: ChatGPT
+                url: https://chatgpt.com/
+                icon: fas fa-link
+                description: ""
+              - name: Deepseek
+                url: https://chat.deepseek.com/
+                icon: fas fa-link
+                description: ""
+              - name: Gemini
+                url: https://gemini.google.com/
+                icon: fab fa-google
+                description: ""
+              - name: cto
+                url: https://cto.new/
+                icon: fas fa-link
+                description: ""
+              - name: 豆包
+                url: https://www.doubao.com/chat
+                icon: fas fa-link
+                description: ""
+              - name: Copilot
+                url: https://m365.cloud.microsoft/search?fromcode=cmmiadtp424&amp;refOrigin=Bing&amp;origindomain=Office&amp;auth=1&amp;client-request-id=51d2bff2-8b89-412e-b3e0-e0b9f4e55da5&amp;redirfrom=cosmicRingCookie
+                icon: fas fa-link
+                description: ""
+          - name: 中转站
+            icon: fas fa-folder
+            path:
+              - 学习
+              - AI
+              - 中转站
+            sites:
+              - name: Moniker
+                url: https://aimoniker.top/console
+                icon: fas fa-link
+                description: ""
+              - name: JustDoWork
+                url: https://api.justwoker.icu/dashboard/overview
+                icon: fas fa-link
+                description: ""
+              - name: Agent Router
+                url: https://agentrouter.org/console
+                icon: fas fa-link
+                description: ""
+          - name: 工具
+            icon: fas fa-folder
+            path:
+              - 学习
+              - AI
+              - 工具
+            sites:
+              - name: CC Switch
+                url: https://www.ccswitch.io/
+                icon: fas fa-link
+                description: ""
   - name: 服务器
     icon: fas fa-folder
     path:
@@ -402,65 +376,106 @@ categories:
             url: https://yonggekkk.github.io/argosbx/
             icon: fab fa-github
             description: ""
-  - name: Emby
+  - name: 视频
     icon: fas fa-folder
     path:
-      - Emby
+      - 视频
+    subcategories:
+      - name: Emby
+        icon: fas fa-folder
+        path:
+          - 视频
+          - Emby
+        sites:
+          - name: hohai
+            url: https://tv.hohai.eu.org/
+            icon: fas fa-link
+            description: ""
+          - name: EOOS
+            url: https://eoos.top/
+            icon: fas fa-link
+            description: ""
+          - name: 結束バンド
+            url: https://mambo-hachimi.biliblili.uk/
+            icon: fas fa-link
+            description: ""
+          - name: 一起乐呵乐呵
+            url: https://embys.vincent253.us.ci/
+            icon: fas fa-link
+            description: ""
+          - name: NoxEmby
+            url: https://cs.inemby.us.ci/?tab=profile
+            icon: fas fa-link
+            description: ""
+          - name: 乐蛙
+            url: https://ue2.taotu.ink/
+            icon: fas fa-link
+            description: ""
+          - name: 起点站
+            url: https://test.28.al/
+            icon: fas fa-link
+            description: ""
+          - name: 银河列车
+            url: https://twilight.pre-s.com/
+            icon: fas fa-link
+            description: ""
+          - name: 二刺螈
+            url: https://intro.bgp.yt/
+            icon: fas fa-link
+            description: ""
+          - name: MICU
+            url: https://wiki.micu.me/
+            icon: fas fa-link
+            description: ""
+          - name: 深夜食堂
+            url: https://www.deepemby.com/
+            icon: fas fa-link
+            description: ""
+          - name: EdgeEmby
+            url: https://staryuki.com/
+            icon: fas fa-link
+            description: ""
+          - name: Lunaris Vault
+            url: https://lunarisvault.vip/
+            icon: fas fa-link
+            description: ""
+          - name: Mirai
+            url: https://www.miraiemby.com/
+            icon: fas fa-link
+            description: ""
+      - name: 资源站
+        icon: fas fa-folder
+        path:
+          - 视频
+          - 资源站
+        sites:
+          - name: 癫影 — 资源 / 解锁 / 分享
+            url: https://m.dian115.com/
+            icon: fas fa-link
+            description: ""
     sites:
-      - name: hohai
-        url: https://tv.hohai.eu.org/
+      - name: bilibili
+        url: https://www.bilibili.com/
         icon: fas fa-link
         description: ""
-      - name: EOOS
-        url: https://eoos.top/
+      - name: YouTube
+        url: https://www.youtube.com/
+        icon: fab fa-youtube
+        description: ""
+      - name: 抖音
+        url: https://www.douyin.com/jingxuan
         icon: fas fa-link
         description: ""
-      - name: 結束バンド
-        url: https://mambo-hachimi.biliblili.uk/
+      - name: TikTok
+        url: https://www.tiktok.com/
         icon: fas fa-link
         description: ""
-      - name: 一起乐呵乐呵
-        url: https://embys.vincent253.us.ci/
+      - name: CMoonTV
+        url: https://cmoontv.dedyn.io/
         icon: fas fa-link
         description: ""
-      - name: NoxEmby
-        url: https://cs.inemby.us.ci/?tab=profile
-        icon: fas fa-link
-        description: ""
-      - name: 乐蛙
-        url: https://ue2.taotu.ink/
-        icon: fas fa-link
-        description: ""
-      - name: 起点站
-        url: https://test.28.al/
-        icon: fas fa-link
-        description: ""
-      - name: 银河列车
-        url: https://twilight.pre-s.com/
-        icon: fas fa-link
-        description: ""
-      - name: 二刺螈
-        url: https://intro.bgp.yt/
-        icon: fas fa-link
-        description: ""
-      - name: MICU
-        url: https://wiki.micu.me/
-        icon: fas fa-link
-        description: ""
-      - name: 深夜食堂
-        url: https://www.deepemby.com/
-        icon: fas fa-link
-        description: ""
-      - name: EdgeEmby
-        url: https://staryuki.com/
-        icon: fas fa-link
-        description: ""
-      - name: Lunaris Vault
-        url: https://lunarisvault.vip/
-        icon: fas fa-link
-        description: ""
-      - name: Mirai
-        url: https://www.miraiemby.com/
+      - name: 自定义媒体库广场
+        url: https://app.dreamby.vip/
         icon: fas fa-link
         description: ""
   - name: 杂七杂八
