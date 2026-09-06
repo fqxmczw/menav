@@ -366,6 +366,10 @@ categories:
             url: https://app.dgnlinks.com/console/overview
             icon: fas fa-link
             description: ""
+          - name: incudal-黃帝云
+            url: https://incudal.di0.uk/dashboard
+            icon: fas fa-link
+            description: ""
       - name: 工具
         icon: fas fa-folder
         path:
@@ -443,6 +447,14 @@ categories:
             url: https://www.miraiemby.com/
             icon: fas fa-link
             description: ""
+          - name: 灣灣的EMBY
+            url: https://user.twmdzz.com/user
+            icon: fas fa-link
+            description: ""
+          - name: OverCooked
+            url: https://s.zhuhule.com/user
+            icon: fas fa-link
+            description: ""
       - name: 资源站
         icon: fas fa-folder
         path:
@@ -451,6 +463,34 @@ categories:
         sites:
           - name: 癫影 — 资源 / 解锁 / 分享
             url: https://m.dian115.com/
+            icon: fas fa-link
+            description: ""
+          - name: PanSou 盘搜
+            url: https://so.252035.xyz/
+            icon: fas fa-link
+            description: ""
+          - name: 盘链
+            url: https://pinglian.lol/index.php
+            icon: fas fa-link
+            description: ""
+          - name: 聚影
+            url: https://jying.top/
+            icon: fas fa-link
+            description: ""
+          - name: 蜗牛 I 4K
+            url: https://wn4k.com/
+            icon: fas fa-link
+            description: ""
+          - name: 七味
+            url: https://www.qwmp4.com/
+            icon: fas fa-link
+            description: ""
+          - name: SeedHub
+            url: https://sidhub.cc/
+            icon: fas fa-link
+            description: ""
+          - name: 123云盘·臻藏阁
+            url: https://123.qsxy.top/
             icon: fas fa-link
             description: ""
     sites:
