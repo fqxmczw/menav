@@ -125,6 +125,10 @@ categories:
             url: https://webmail.vip.163.com/js6/main.jsp?sid=wAejxIhhwRZHjMGmCPGXCLVKzspmhkGQ&amp;df=unknow#module=welcome.WelcomeModule%7C%7B%7D
             icon: fas fa-link
             description: ""
+          - name: Outlook
+            url: https://outlook.live.com/mail/
+            icon: fas fa-link
+            description: ""
   - name: 学习
     icon: fas fa-folder
     path:
@@ -146,6 +150,10 @@ categories:
             description: ""
           - name: 上海海事大学-数字平台
             url: https://my.shmtu.edu.cn/
+            icon: fas fa-link
+            description: ""
+          - name: 学信网
+            url: https://account.chsi.com.cn/account/account!show.action
             icon: fas fa-link
             description: ""
       - name: 查找文献
@@ -213,24 +221,28 @@ categories:
                 url: https://chatgpt.com/
                 icon: fas fa-link
                 description: ""
+              - name: Grok
+                url: https://grok.com/
+                icon: fas fa-link
+                description: ""
               - name: Deepseek
                 url: https://chat.deepseek.com/
+                icon: fas fa-link
+                description: ""
+              - name: Copilot
+                url: https://m365.cloud.microsoft/search?fromcode=cmmiadtp424&amp;refOrigin=Bing&amp;origindomain=Office&amp;auth=1&amp;client-request-id=51d2bff2-8b89-412e-b3e0-e0b9f4e55da5&amp;redirfrom=cosmicRingCookie
                 icon: fas fa-link
                 description: ""
               - name: Gemini
                 url: https://gemini.google.com/
                 icon: fab fa-google
                 description: ""
-              - name: cto
-                url: https://cto.new/
-                icon: fas fa-link
-                description: ""
               - name: 豆包
                 url: https://www.doubao.com/chat
                 icon: fas fa-link
                 description: ""
-              - name: Copilot
-                url: https://m365.cloud.microsoft/search?fromcode=cmmiadtp424&amp;refOrigin=Bing&amp;origindomain=Office&amp;auth=1&amp;client-request-id=51d2bff2-8b89-412e-b3e0-e0b9f4e55da5&amp;redirfrom=cosmicRingCookie
+              - name: cto
+                url: https://cto.new/
                 icon: fas fa-link
                 description: ""
           - name: 中转站
@@ -240,6 +252,10 @@ categories:
               - AI
               - 中转站
             sites:
+              - name: LongCatAI
+                url: https://longcat.chat/platform/usage
+                icon: fas fa-link
+                description: ""
               - name: Moniker
                 url: https://aimoniker.top/console
                 icon: fas fa-link
@@ -261,6 +277,14 @@ categories:
             sites:
               - name: CC Switch
                 url: https://www.ccswitch.io/
+                icon: fas fa-link
+                description: ""
+              - name: Claude Code Docs
+                url: https://code.claude.com/docs/en/setup
+                icon: fas fa-link
+                description: ""
+              - name: Visual Studio Code 文档
+                url: https://code.visualstudio.com/docs
                 icon: fas fa-link
                 description: ""
   - name: 服务器
