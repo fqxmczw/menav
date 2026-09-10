@@ -129,6 +129,10 @@ categories:
             url: https://outlook.live.com/mail/
             icon: fas fa-link
             description: ""
+          - name: NodeSeek 邮箱
+            url: https://seek.li/
+            icon: fas fa-link
+            description: ""
   - name: 学习
     icon: fas fa-folder
     path:
@@ -266,6 +270,10 @@ categories:
                 description: ""
               - name: Agent Router
                 url: https://agentrouter.org/console
+                icon: fas fa-link
+                description: ""
+              - name: xKiro
+                url: https://xkiro.com/dashboard
                 icon: fas fa-link
                 description: ""
           - name: 工具
