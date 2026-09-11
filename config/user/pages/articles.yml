@@ -21,6 +21,10 @@ categories:
   - name: 官方博客
     icon: fas fa-rss
     sites:
+      - name: Clarkson SIN Blog
+        icon: fab fa-ship
+        description: Clarkson SIN（克拉克森海运情报网）
+        url: https://www.clarksons.net.cn/sin/
       - name: GitHub Blog
         icon: fab fa-github
         description: GitHub 官方博客（工程/产品/安全）
