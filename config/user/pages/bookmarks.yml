@@ -190,6 +190,10 @@ categories:
             url: https://arxiv.org/
             icon: fas fa-link
             description: ""
+          - name: Shipping Intelligence Network
+            url: https://www.clarksons.net.cn/sin/
+            icon: fas fa-link
+            description: ""
       - name: 工具
         icon: fas fa-folder
         path:
