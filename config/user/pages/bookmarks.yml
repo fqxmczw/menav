@@ -194,6 +194,14 @@ categories:
             url: https://www.clarksons.net.cn/sin/
             icon: fas fa-link
             description: ""
+          - name: Drewry - 上海海事大学图书馆（档案馆）
+            url: http://www.library.shmtu.edu.cn/local/drewry/
+            icon: fas fa-link
+            description: ""
+          - name: 智能检索 - Web of Science 核心合集
+            url: https://webofscience.clarivate.cn/wos/woscc/smart-search
+            icon: fas fa-link
+            description: ""
       - name: 工具
         icon: fas fa-folder
         path:
@@ -260,6 +268,10 @@ categories:
               - AI
               - 中转站
             sites:
+              - name: DeepSeek 开放平台
+                url: https://platform.deepseek.com/usage
+                icon: fas fa-link
+                description: ""
               - name: LongCatAI
                 url: https://longcat.chat/platform/usage
                 icon: fas fa-link
@@ -415,6 +427,10 @@ categories:
           - name: 一键SSH命令生成器
             url: https://yonggekkk.github.io/argosbx/
             icon: fab fa-github
+            description: ""
+          - name: Zstatic CDN 节点查询
+            url: https://lf3-ips.zstaticcdn.com/
+            icon: fas fa-link
             description: ""
   - name: 视频
     icon: fas fa-folder
