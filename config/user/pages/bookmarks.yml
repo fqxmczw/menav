@@ -160,6 +160,10 @@ categories:
             url: https://account.chsi.com.cn/account/account!show.action
             icon: fas fa-link
             description: ""
+          - name: 全球船位查询与AIS船舶动态跟踪 - HiFleet船队在线
+            url: https://www.hifleet.com/
+            icon: fas fa-link
+            description: ""
       - name: 查找文献
         icon: fas fa-folder
         path:
@@ -214,6 +218,10 @@ categories:
             description: ""
           - name: Zotero 中文社区
             url: https://zotero-chinese.com/
+            icon: fas fa-link
+            description: ""
+          - name: Zotero-PDF2zh | guaguastandup - PDF翻译进度监控
+            url: http://127.0.0.1:8890/
             icon: fas fa-link
             description: ""
       - name: AI
@@ -597,5 +605,9 @@ categories:
         description: ""
       - name: 免费JWT密钥生成器 | 安全的HS256、HS384、HS512密钥在线生成
         url: https://jwtsecretkeygenerator.com/zh/
+        icon: fas fa-link
+        description: ""
+      - name: Music
+        url: https://am-4u2.pages.dev/
         icon: fas fa-link
         description: ""
