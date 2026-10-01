@@ -29,16 +29,12 @@ categories:
             url: https://mail.klmail.ccwu.cc/
             icon: fas fa-link
             description: ""
-          - name: CF Request Analytics
-            url: https://analytics.woblog.ccwu.cc/
+          - name: WorkBuddy2API · 控制台
+            url: http://162.211.182.81:7863/panel/#accounts
             icon: fas fa-link
             description: ""
-          - name: 我的图床
-            url: https://imgbed.woblog.ccwu.cc/dashboard
-            icon: fas fa-link
-            description: ""
-          - name: Private Notes
-            url: https://notes.klmail.ccwu.cc/
+          - name: 我的订阅管理
+            url: https://dy.klmail.ccwu.cc/
             icon: fas fa-link
             description: ""
           - name: 破烂の小🐔
@@ -53,12 +49,16 @@ categories:
             url: https://cf99.dpdns.org/
             icon: fas fa-link
             description: ""
-          - name: 我的订阅管理
-            url: https://dy.klmail.ccwu.cc/
-            icon: fas fa-link
-            description: ""
           - name: Meridian — Emby 反代管理面板
             url: https://fd.cattle.ccwu.cc/#dashboard
+            icon: fas fa-link
+            description: ""
+          - name: Private Notes
+            url: https://notes.klmail.ccwu.cc/
+            icon: fas fa-link
+            description: ""
+          - name: 我的图床
+            url: https://imgbed.woblog.ccwu.cc/dashboard
             icon: fas fa-link
             description: ""
           - name: 我的弹幕API
@@ -67,6 +67,10 @@ categories:
             description: ""
           - name: edgetunnel面板
             url: https://edt.wocf.ccwu.cc/admin
+            icon: fas fa-link
+            description: ""
+          - name: CF Request Analytics
+            url: https://analytics.woblog.ccwu.cc/
             icon: fas fa-link
             description: ""
           - name: Card-Tab
