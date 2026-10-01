@@ -107,6 +107,10 @@ categories:
             url: https://my.dnshe.com/
             icon: fas fa-link
             description: ""
+          - name: 烧饼论坛
+            url: https://sb.sb/
+            icon: fas fa-link
+            description: ""
       - name: 邮箱
         icon: fas fa-folder
         path:
@@ -275,6 +279,10 @@ categories:
                 description: ""
               - name: cto
                 url: https://cto.new/
+                icon: fas fa-link
+                description: ""
+              - name: Muse
+                url: https://muse.ai/
                 icon: fas fa-link
                 description: ""
           - name: 中转站
