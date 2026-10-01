@@ -324,6 +324,10 @@ categories:
                 url: https://api.atria-asi.ai/console
                 icon: fas fa-link
                 description: ""
+              - name: Future Hub
+                url: https://api.futureppo.top/console
+                icon: fas fa-link
+                description: ""
           - name: 工具
             icon: fas fa-folder
             path:
