@@ -280,6 +280,10 @@ categories:
               - AI
               - 中转站
             sites:
+              - name: Octopus
+                url: http://162.211.182.81:8080/
+                icon: fas fa-link
+                description: ""
               - name: DeepSeek 开放平台
                 url: https://platform.deepseek.com/usage
                 icon: fas fa-link
