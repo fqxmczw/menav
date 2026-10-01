@@ -144,6 +144,10 @@ categories:
           - 学习
           - 官网
         sites:
+          - name: 上海海事大学（研究生院）
+            url: https://shmtu.yuketang.cn/pro/courselist
+            icon: fas fa-link
+            description: ""
           - name: 上海海事大学研究生院
             url: https://gs.shmtu.edu.cn/
             icon: fas fa-link
@@ -220,7 +224,7 @@ categories:
             url: http://127.0.0.1:8890/
             icon: fas fa-link
             description: ""
-          - name: 全球船位查询与AIS船舶动态跟踪 - HiFleet船队在线
+          - name: HiFleet
             url: https://www.hifleet.com/
             icon: fas fa-link
             description: ""
