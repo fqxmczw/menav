@@ -17,6 +17,10 @@ categories:
           - 常用
           - 我的项目
         sites:
+          - name: 127.0.0.1:9090 | 代理
+            url: http://127.0.0.1:9090/ui/#/proxies
+            icon: fas fa-link
+            description: ""
           - name: 我的博客
             url: https://woblog.ccwu.cc/
             icon: fas fa-link
