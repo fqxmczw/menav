@@ -549,6 +549,10 @@ categories:
           - 视频
           - 资源站
         sites:
+          - name: "Trakt Web: 主页"
+            url: https://app.trakt.tv/home
+            icon: fas fa-link
+            description: ""
           - name: 癫影 — 资源 / 解锁 / 分享
             url: https://m.dian115.com/
             icon: fas fa-link
@@ -611,6 +615,10 @@ categories:
     path:
       - 杂七杂八
     sites:
+      - name: Microsoft Store
+        url: https://apps.microsoft.com/home?hl=zh-CN&amp;gl=CN
+        icon: fab fa-microsoft
+        description: ""
       - name: 我的 Telegram
         url: https://my.telegram.org/
         icon: fab fa-telegram
