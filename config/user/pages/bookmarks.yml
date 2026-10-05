@@ -289,6 +289,10 @@ categories:
                 url: https://muse.ai/
                 icon: fas fa-link
                 description: ""
+              - name: WorkBuddy
+                url: https://www.codebuddy.ai/agents
+                icon: fas fa-link
+                description: ""
           - name: 中转站
             icon: fas fa-folder
             path:
@@ -330,6 +334,10 @@ categories:
                 description: ""
               - name: Future Hub
                 url: https://api.futureppo.top/console
+                icon: fas fa-link
+                description: ""
+              - name: Hiyo Free
+                url: https://free.hiyo.top/dashboard
                 icon: fas fa-link
                 description: ""
           - name: 工具
