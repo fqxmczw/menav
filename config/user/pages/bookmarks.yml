@@ -240,125 +240,121 @@ categories:
             url: https://www.hifleet.com/
             icon: fas fa-link
             description: ""
-      - name: AI
+  - name: AI
+    icon: fas fa-folder
+    path:
+      - AI
+    subcategories:
+      - name: 默认分类
         icon: fas fa-folder
         path:
-          - 学习
           - AI
-        groups:
-          - name: 默认分类
-            icon: fas fa-folder
-            path:
-              - 学习
-              - AI
-              - 默认分类
-            sites:
-              - name: Claude
-                url: https://claude.ai/
-                icon: fas fa-link
-                description: ""
-              - name: ChatGPT
-                url: https://chatgpt.com/
-                icon: fas fa-link
-                description: ""
-              - name: Grok
-                url: https://grok.com/
-                icon: fas fa-link
-                description: ""
-              - name: Deepseek
-                url: https://chat.deepseek.com/
-                icon: fas fa-link
-                description: ""
-              - name: Copilot
-                url: https://m365.cloud.microsoft/search?fromcode=cmmiadtp424&amp;refOrigin=Bing&amp;origindomain=Office&amp;auth=1&amp;client-request-id=51d2bff2-8b89-412e-b3e0-e0b9f4e55da5&amp;redirfrom=cosmicRingCookie
-                icon: fas fa-link
-                description: ""
-              - name: Gemini
-                url: https://gemini.google.com/
-                icon: fab fa-google
-                description: ""
-              - name: 豆包
-                url: https://www.doubao.com/chat
-                icon: fas fa-link
-                description: ""
-              - name: cto
-                url: https://cto.new/
-                icon: fas fa-link
-                description: ""
-              - name: Muse
-                url: https://muse.ai/
-                icon: fas fa-link
-                description: ""
-              - name: WorkBuddy
-                url: https://www.codebuddy.ai/agents
-                icon: fas fa-link
-                description: ""
-          - name: 中转站
-            icon: fas fa-folder
-            path:
-              - 学习
-              - AI
-              - 中转站
-            sites:
-              - name: DeepSeek 开放平台
-                url: https://platform.deepseek.com/usage
-                icon: fas fa-link
-                description: ""
-              - name: LongCatAI
-                url: https://longcat.chat/platform/usage
-                icon: fas fa-link
-                description: ""
-              - name: Moniker
-                url: https://aimoniker.top/console
-                icon: fas fa-link
-                description: ""
-              - name: JustDoWork
-                url: https://api.justwoker.icu/dashboard/overview
-                icon: fas fa-link
-                description: ""
-              - name: Agent Router
-                url: https://agentrouter.org/console
-                icon: fas fa-link
-                description: ""
-              - name: xKiro
-                url: https://xkiro.com/dashboard
-                icon: fas fa-link
-                description: ""
-              - name: Atria Dawn Preview
-                url: https://api.atria-asi.ai/console
-                icon: fas fa-link
-                description: ""
-              - name: Future Hub
-                url: https://api.futureppo.top/console
-                icon: fas fa-link
-                description: ""
-              - name: Hiyo Free
-                url: https://free.hiyo.top/dashboard
-                icon: fas fa-link
-                description: ""
-              - name: Orbitix AI
-                url: https://orbitix.site/dashboard
-                icon: fas fa-link
-                description: ""
-          - name: 工具
-            icon: fas fa-folder
-            path:
-              - 学习
-              - AI
-              - 工具
-            sites:
-              - name: CC Switch
-                url: https://www.ccswitch.io/
-                icon: fas fa-link
-                description: ""
-              - name: Claude Code Docs
-                url: https://code.claude.com/docs/en/setup
-                icon: fas fa-link
-                description: ""
-              - name: Visual Studio Code 文档
-                url: https://code.visualstudio.com/docs
-                icon: fas fa-link
-                description: ""
+          - 默认分类
+        sites:
+          - name: Claude
+            url: https://claude.ai/
+            icon: fas fa-link
+            description: ""
+          - name: ChatGPT
+            url: https://chatgpt.com/
+            icon: fas fa-link
+            description: ""
+          - name: Grok
+            url: https://grok.com/
+            icon: fas fa-link
+            description: ""
+          - name: Deepseek
+            url: https://chat.deepseek.com/
+            icon: fas fa-link
+            description: ""
+          - name: Copilot
+            url: https://m365.cloud.microsoft/search?fromcode=cmmiadtp424&amp;refOrigin=Bing&amp;origindomain=Office&amp;auth=1&amp;client-request-id=51d2bff2-8b89-412e-b3e0-e0b9f4e55da5&amp;redirfrom=cosmicRingCookie
+            icon: fas fa-link
+            description: ""
+          - name: Gemini
+            url: https://gemini.google.com/
+            icon: fab fa-google
+            description: ""
+          - name: 豆包
+            url: https://www.doubao.com/chat
+            icon: fas fa-link
+            description: ""
+          - name: cto
+            url: https://cto.new/
+            icon: fas fa-link
+            description: ""
+          - name: Muse
+            url: https://muse.ai/
+            icon: fas fa-link
+            description: ""
+          - name: WorkBuddy
+            url: https://www.codebuddy.ai/agents
+            icon: fas fa-link
+            description: ""
+      - name: 中转站
+        icon: fas fa-folder
+        path:
+          - AI
+          - 中转站
+        sites:
+          - name: DeepSeek 开放平台
+            url: https://platform.deepseek.com/usage
+            icon: fas fa-link
+            description: ""
+          - name: LongCatAI
+            url: https://longcat.chat/platform/usage
+            icon: fas fa-link
+            description: ""
+          - name: Moniker
+            url: https://aimoniker.top/console
+            icon: fas fa-link
+            description: ""
+          - name: JustDoWork
+            url: https://api.justwoker.icu/dashboard/overview
+            icon: fas fa-link
+            description: ""
+          - name: Agent Router
+            url: https://agentrouter.org/console
+            icon: fas fa-link
+            description: ""
+          - name: xKiro
+            url: https://xkiro.com/dashboard
+            icon: fas fa-link
+            description: ""
+          - name: Atria Dawn Preview
+            url: https://api.atria-asi.ai/console
+            icon: fas fa-link
+            description: ""
+          - name: Future Hub
+            url: https://api.futureppo.top/console
+            icon: fas fa-link
+            description: ""
+          - name: Hiyo Free
+            url: https://free.hiyo.top/dashboard
+            icon: fas fa-link
+            description: ""
+          - name: Orbitix AI
+            url: https://orbitix.site/dashboard
+            icon: fas fa-link
+            description: ""
+      - name: 工具
+        icon: fas fa-folder
+        path:
+          - AI
+          - 工具
+        sites:
+          - name: CC Switch
+            url: https://www.ccswitch.io/
+            icon: fas fa-link
+            description: ""
+          - name: Claude Code Docs
+            url: https://code.claude.com/docs/en/setup
+            icon: fas fa-link
+            description: ""
+          - name: Visual Studio Code 文档
+            url: https://code.visualstudio.com/docs
+            icon: fas fa-link
+            description: ""
   - name: 服务器
     icon: fas fa-folder
     path:
@@ -665,5 +661,9 @@ categories:
         description: ""
       - name: 枫の主题社 ★ 二次元技术研究社区~
         url: https://winmoes.com/
+        icon: fas fa-link
+        description: ""
+      - name: 鹅佬-干杯专享分发
+        url: https://ganbei.duckcf.de5.net/
         icon: fas fa-link
         description: ""
