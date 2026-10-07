@@ -17,10 +17,6 @@ categories:
           - 常用
           - 我的项目
         sites:
-          - name: 127.0.0.1:9090 | 代理
-            url: http://127.0.0.1:9090/ui/#/proxies
-            icon: fas fa-link
-            description: ""
           - name: 我的博客
             url: https://woblog.ccwu.cc/
             icon: fas fa-link
@@ -31,6 +27,10 @@ categories:
             description: ""
           - name: 我的临时邮箱
             url: https://mail.klmail.ccwu.cc/
+            icon: fas fa-link
+            description: ""
+          - name: Octopus
+            url: http://162.211.182.81:8080/
             icon: fas fa-link
             description: ""
           - name: WorkBuddy2API · 控制台
@@ -300,10 +300,6 @@ categories:
               - AI
               - 中转站
             sites:
-              - name: Octopus
-                url: http://162.211.182.81:8080/
-                icon: fas fa-link
-                description: ""
               - name: DeepSeek 开放平台
                 url: https://platform.deepseek.com/usage
                 icon: fas fa-link
@@ -394,6 +390,10 @@ categories:
             url: https://aws.amazon.com/cn/
             icon: fab fa-amazon
             description: ""
+          - name: 酷网云
+            url: https://www.corenetcloud.com/console/dashboard
+            icon: fas fa-link
+            description: ""
           - name: databasemart
             url: https://console.databasemart.com/
             icon: fas fa-link
@@ -454,10 +454,6 @@ categories:
             url: https://www.vitebits.com/clientarea
             icon: fas fa-link
             description: ""
-          - name: 酷网云
-            url: https://www.corenetcloud.com/console/dashboard
-            icon: fas fa-link
-            description: ""
           - name: Cloudnium
             url: https://portal.cloudnium.net/
             icon: fas fa-link
@@ -507,10 +503,6 @@ categories:
             url: https://mambo-hachimi.biliblili.uk/
             icon: fas fa-link
             description: ""
-          - name: 一起乐呵乐呵
-            url: https://embys.vincent253.us.ci/
-            icon: fas fa-link
-            description: ""
           - name: NoxEmby
             url: https://cs.inemby.us.ci/?tab=profile
             icon: fas fa-link
@@ -543,10 +535,6 @@ categories:
             url: https://staryuki.com/
             icon: fas fa-link
             description: ""
-          - name: Lunaris Vault
-            url: https://lunarisvault.vip/
-            icon: fas fa-link
-            description: ""
           - name: Mirai
             url: https://www.miraiemby.com/
             icon: fas fa-link
@@ -565,6 +553,14 @@ categories:
             description: ""
           - name: EMOS
             url: https://emos.club/
+            icon: fas fa-link
+            description: ""
+          - name: 宸澄
+            url: https://register.wybcs.work/?tab=explore
+            icon: fas fa-link
+            description: ""
+          - name: MDL公益
+            url: https://rt.saodu6.wang:19999/
             icon: fas fa-link
             description: ""
       - name: 资源站
