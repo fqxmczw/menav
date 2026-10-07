@@ -37,6 +37,10 @@ categories:
             url: http://162.211.182.81:7863/panel/#accounts
             icon: fas fa-link
             description: ""
+          - name: Sub-Store
+            url: http://162.211.182.81:3001/subs
+            icon: fas fa-link
+            description: ""
           - name: 我的订阅管理
             url: https://dy.klmail.ccwu.cc/
             icon: fas fa-link
