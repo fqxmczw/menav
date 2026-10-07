@@ -340,6 +340,10 @@ categories:
                 url: https://free.hiyo.top/dashboard
                 icon: fas fa-link
                 description: ""
+              - name: Orbitix AI
+                url: https://orbitix.site/dashboard
+                icon: fas fa-link
+                description: ""
           - name: 工具
             icon: fas fa-folder
             path:
@@ -555,6 +559,14 @@ categories:
             url: https://s.zhuhule.com/user
             icon: fas fa-link
             description: ""
+          - name: 益禾堂
+            url: https://yh.4348663.xyz:12307/home
+            icon: fas fa-link
+            description: ""
+          - name: EMOS
+            url: https://emos.club/
+            icon: fas fa-link
+            description: ""
       - name: 资源站
         icon: fas fa-folder
         path:
@@ -653,5 +665,9 @@ categories:
         description: ""
       - name: Music
         url: https://am-4u2.pages.dev/
+        icon: fas fa-link
+        description: ""
+      - name: 枫の主题社 ★ 二次元技术研究社区~
+        url: https://winmoes.com/
         icon: fas fa-link
         description: ""
