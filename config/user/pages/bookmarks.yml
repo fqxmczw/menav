@@ -29,6 +29,10 @@ categories:
             url: https://mail.klmail.ccwu.cc/
             icon: fas fa-link
             description: ""
+          - name: OpenClaw
+            url: https://openclaw.162-211-182-81.sslip.io/chat/main
+            icon: fas fa-link
+            description: ""
           - name: Octopus
             url: http://162.211.182.81:8080/
             icon: fas fa-link
@@ -38,7 +42,7 @@ categories:
             icon: fas fa-link
             description: ""
           - name: Sub-Store
-            url: http://162.211.182.81:3001/subs
+            url: http://162.211.182.81:3001/subs?api=http://162.211.182.81:3001/516b8511b0e03165b7750735d5988d1485d8c92c3240c787
             icon: fas fa-link
             description: ""
           - name: 我的订阅管理
