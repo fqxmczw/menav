@@ -333,16 +333,16 @@ categories:
             url: https://api.atria-asi.ai/console
             icon: fas fa-link
             description: ""
-          - name: Future Hub
-            url: https://api.futureppo.top/console
-            icon: fas fa-link
-            description: ""
           - name: Hiyo Free
             url: https://free.hiyo.top/dashboard
             icon: fas fa-link
             description: ""
           - name: Orbitix AI
             url: https://orbitix.site/dashboard
+            icon: fas fa-link
+            description: ""
+          - name: Future Hub
+            url: https://api2.futureppo.top/console
             icon: fas fa-link
             description: ""
       - name: 工具
@@ -361,6 +361,16 @@ categories:
             description: ""
           - name: Visual Studio Code 文档
             url: https://code.visualstudio.com/docs
+            icon: fas fa-link
+            description: ""
+      - name: Prompt
+        icon: fas fa-folder
+        path:
+          - AI
+          - Prompt
+        sites:
+          - name: 玖帕喵 | Prompt 市场
+            url: https://jiupamiao.asia/
             icon: fas fa-link
             description: ""
   - name: 服务器
@@ -565,6 +575,10 @@ categories:
             description: ""
           - name: MDL公益
             url: https://rt.saodu6.wang:19999/
+            icon: fas fa-link
+            description: ""
+          - name: 随影
+            url: https://suiying.qutama.de/
             icon: fas fa-link
             description: ""
       - name: 资源站
