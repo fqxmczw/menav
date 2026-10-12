@@ -484,6 +484,10 @@ categories:
             url: https://incudal.di0.uk/dashboard
             icon: fas fa-link
             description: ""
+          - name: 哇沃主機
+            url: https://wawo.wiki/
+            icon: fas fa-link
+            description: ""
       - name: 工具
         icon: fas fa-folder
         path:
@@ -691,5 +695,9 @@ categories:
         description: ""
       - name: 鹅佬-干杯专享分发
         url: https://ganbei.duckcf.de5.net/
+        icon: fas fa-link
+        description: ""
+      - name: Piik
+        url: https://demo.piik.tv/
         icon: fas fa-link
         description: ""
