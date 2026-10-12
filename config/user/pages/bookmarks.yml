@@ -623,6 +623,10 @@ categories:
             url: https://123.qsxy.top/
             icon: fas fa-link
             description: ""
+          - name: 栖影 HDHaven
+            url: https://hdhaven.com/
+            icon: fas fa-link
+            description: ""
     sites:
       - name: bilibili
         url: https://www.bilibili.com/
