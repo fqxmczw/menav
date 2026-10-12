@@ -345,6 +345,10 @@ categories:
             url: https://api2.futureppo.top/console
             icon: fas fa-link
             description: ""
+          - name: 黑化pro
+            url: https://gptpro.live/dashboard
+            icon: fas fa-link
+            description: ""
       - name: 工具
         icon: fas fa-folder
         path:
@@ -541,10 +545,6 @@ categories:
             url: https://wiki.micu.me/
             icon: fas fa-link
             description: ""
-          - name: 深夜食堂
-            url: https://www.deepemby.com/
-            icon: fas fa-link
-            description: ""
           - name: EdgeEmby
             url: https://staryuki.com/
             icon: fas fa-link
@@ -595,6 +595,10 @@ categories:
             url: https://m.dian115.com/
             icon: fas fa-link
             description: ""
+          - name: 栖影 HDHaven
+            url: https://hdhaven.com/
+            icon: fas fa-link
+            description: ""
           - name: PanSou 盘搜
             url: https://so.252035.xyz/
             icon: fas fa-link
@@ -621,10 +625,6 @@ categories:
             description: ""
           - name: 123云盘·臻藏阁
             url: https://123.qsxy.top/
-            icon: fas fa-link
-            description: ""
-          - name: 栖影 HDHaven
-            url: https://hdhaven.com/
             icon: fas fa-link
             description: ""
     sites:
