@@ -184,6 +184,10 @@ categories:
             url: https://account.chsi.com.cn/account/account!show.action
             icon: fas fa-link
             description: ""
+          - name: 雨课堂
+            url: https://www.yuketang.cn/m/v2?date=1791943609796&amp;newWeb=1
+            icon: fas fa-link
+            description: ""
       - name: 查找文献
         icon: fas fa-folder
         path:
