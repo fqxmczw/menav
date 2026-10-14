@@ -50,7 +50,7 @@ categories:
             icon: fas fa-link
             description: ""
           - name: 破烂の小🐔
-            url: https://komari.cattle.ccwu.cc/
+            url: https://komari.88emby.icu/
             icon: fas fa-link
             description: ""
           - name: Emby 服务器探针
@@ -61,8 +61,8 @@ categories:
             url: https://cf99.dpdns.org/
             icon: fas fa-link
             description: ""
-          - name: Meridian — Emby 反代管理面板
-            url: https://fd.cattle.ccwu.cc/#dashboard
+          - name: Meridian
+            url: https://meridian.88emby.icu/
             icon: fas fa-link
             description: ""
           - name: Private Notes
