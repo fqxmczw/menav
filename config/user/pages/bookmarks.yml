@@ -371,6 +371,10 @@ categories:
             url: https://code.visualstudio.com/docs
             icon: fas fa-link
             description: ""
+          - name: MCP.so
+            url: https://mcp.so/
+            icon: fas fa-link
+            description: ""
       - name: Prompt
         icon: fas fa-folder
         path:
