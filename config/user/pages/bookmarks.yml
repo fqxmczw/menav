@@ -313,10 +313,6 @@ categories:
             url: https://platform.deepseek.com/usage
             icon: fas fa-link
             description: ""
-          - name: LongCatAI
-            url: https://longcat.chat/platform/usage
-            icon: fas fa-link
-            description: ""
           - name: Moniker
             url: https://aimoniker.top/console
             icon: fas fa-link
@@ -327,6 +323,10 @@ categories:
             description: ""
           - name: Agent Router
             url: https://agentrouter.org/console
+            icon: fas fa-link
+            description: ""
+          - name: LongCatAI
+            url: https://longcat.chat/platform/usage
             icon: fas fa-link
             description: ""
           - name: xKiro
@@ -347,6 +347,10 @@ categories:
             description: ""
           - name: Future Hub
             url: https://api2.futureppo.top/console
+            icon: fas fa-link
+            description: ""
+          - name: 星见雅 API
+            url: https://new.xinjianya.top/console/token
             icon: fas fa-link
             description: ""
           - name: 黑化pro
@@ -707,5 +711,13 @@ categories:
         description: ""
       - name: Piik
         url: https://demo.piik.tv/
+        icon: fas fa-link
+        description: ""
+      - name: 我的应用 | 高德控制台
+        url: https://console.amap.com/dev/key/app
+        icon: fas fa-link
+        description: ""
+      - name: 全球灵异事件处理总部 · GHOST PROTOCOL
+        url: https://lycl.top/monitor
         icon: fas fa-link
         description: ""
