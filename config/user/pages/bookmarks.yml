@@ -188,6 +188,10 @@ categories:
             url: https://www.yuketang.cn/m/v2?date=1791943609796&amp;newWeb=1
             icon: fas fa-link
             description: ""
+          - name: 网上共青团·智慧团建
+            url: https://zhtj.youth.cn/zhtj/mine/home
+            icon: fas fa-link
+            description: ""
       - name: 查找文献
         icon: fas fa-folder
         path:
