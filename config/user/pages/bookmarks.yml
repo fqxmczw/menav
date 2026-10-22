@@ -361,6 +361,10 @@ categories:
             url: https://gptpro.live/dashboard
             icon: fas fa-link
             description: ""
+          - name: 书生·端砚 Intern InkStone
+            url: https://discovery.intern-ai.org.cn/chat?lang=zh-CN
+            icon: fas fa-link
+            description: ""
       - name: 工具
         icon: fas fa-folder
         path:
