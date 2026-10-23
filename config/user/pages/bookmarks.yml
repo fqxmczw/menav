@@ -365,6 +365,10 @@ categories:
             url: https://discovery.intern-ai.org.cn/chat?lang=zh-CN
             icon: fas fa-link
             description: ""
+          - name: 39AI
+            url: https://39ai.me/dashboard/overview
+            icon: fas fa-link
+            description: ""
       - name: 工具
         icon: fas fa-folder
         path:
@@ -727,5 +731,13 @@ categories:
         description: ""
       - name: 全球灵异事件处理总部 · GHOST PROTOCOL
         url: https://lycl.top/monitor
+        icon: fas fa-link
+        description: ""
+      - name: IPPure
+        url: https://ippure.com/Browser-WebRTC-Leak-Detect
+        icon: fas fa-link
+        description: ""
+      - name: DNS泄漏测试 - BrowserLeaks
+        url: https://browserleaks.com/dns
         icon: fas fa-link
         description: ""
