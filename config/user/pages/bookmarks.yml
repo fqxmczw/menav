@@ -29,6 +29,10 @@ categories:
             url: https://mail.klmail.ccwu.cc/
             icon: fas fa-link
             description: ""
+          - name: RAGFlow
+            url: http://localhost:8080/
+            icon: fas fa-link
+            description: ""
           - name: OpenClaw
             url: https://openclaw.162-211-182-81.sslip.io/chat/main
             icon: fas fa-link
@@ -317,8 +321,20 @@ categories:
             url: https://platform.deepseek.com/usage
             icon: fas fa-link
             description: ""
+          - name: Hiyo Free
+            url: https://free.hiyo.top/dashboard
+            icon: fas fa-link
+            description: ""
+          - name: 书生·端砚 Intern InkStone
+            url: https://discovery.intern-ai.org.cn/chat?lang=zh-CN
+            icon: fas fa-link
+            description: ""
           - name: Moniker
             url: https://aimoniker.top/console
+            icon: fas fa-link
+            description: ""
+          - name: Future Hub
+            url: https://api2.futureppo.top/console
             icon: fas fa-link
             description: ""
           - name: JustDoWork
@@ -341,16 +357,8 @@ categories:
             url: https://api.atria-asi.ai/console
             icon: fas fa-link
             description: ""
-          - name: Hiyo Free
-            url: https://free.hiyo.top/dashboard
-            icon: fas fa-link
-            description: ""
           - name: Orbitix AI
             url: https://orbitix.site/dashboard
-            icon: fas fa-link
-            description: ""
-          - name: Future Hub
-            url: https://api2.futureppo.top/console
             icon: fas fa-link
             description: ""
           - name: 星见雅 API
@@ -359,10 +367,6 @@ categories:
             description: ""
           - name: 黑化pro
             url: https://gptpro.live/dashboard
-            icon: fas fa-link
-            description: ""
-          - name: 书生·端砚 Intern InkStone
-            url: https://discovery.intern-ai.org.cn/chat?lang=zh-CN
             icon: fas fa-link
             description: ""
           - name: 39AI
