@@ -41,8 +41,12 @@ categories:
             url: http://162.211.182.81:8080/
             icon: fas fa-link
             description: ""
-          - name: WorkBuddy2API · 控制台
+          - name: WorkBuddy2API
             url: http://162.211.182.81:7863/panel/#accounts
+            icon: fas fa-link
+            description: ""
+          - name: OPENCODE TO API
+            url: http://162.211.182.81:8000/
             icon: fas fa-link
             description: ""
           - name: Sub-Store
@@ -194,6 +198,10 @@ categories:
             description: ""
           - name: 网上共青团·智慧团建
             url: https://zhtj.youth.cn/zhtj/mine/home
+            icon: fas fa-link
+            description: ""
+          - name: 爱标客工作台
+            url: https://ainote.ahjxabk.com/#/WorkBench/WorkBench
             icon: fas fa-link
             description: ""
       - name: 查找文献
