@@ -97,6 +97,10 @@ categories:
             url: https://tab.woblog.ccwu.cc/
             icon: fas fa-link
             description: ""
+          - name: Telegram 多账号抢红包 &amp; AI 签到中枢
+            url: https://emby.abcai.online/
+            icon: fas fa-link
+            description: ""
       - name: 开发
         icon: fas fa-folder
         path:
@@ -129,6 +133,10 @@ categories:
             description: ""
           - name: 烧饼论坛
             url: https://sb.sb/
+            icon: fas fa-link
+            description: ""
+          - name: 恩山无线论坛
+            url: https://www.right.com.cn/forum/
             icon: fas fa-link
             description: ""
       - name: 邮箱
@@ -202,6 +210,14 @@ categories:
             description: ""
           - name: 爱标客工作台
             url: https://ainote.ahjxabk.com/#/WorkBench/WorkBench
+            icon: fas fa-link
+            description: ""
+          - name: 中国船级社
+            url: https://www.ccs-service.net/homePageNew?menuId=2c9a4001638c1b7401638c1c02da0016
+            icon: fas fa-link
+            description: ""
+          - name: 导助航综合服务系统
+            url: https://ais.msa.gov.cn/?code=92fd931d-fe9d-4413-ad8a-38b916014bf1
             icon: fas fa-link
             description: ""
       - name: 查找文献
@@ -751,5 +767,9 @@ categories:
         description: ""
       - name: DNS泄漏测试 - BrowserLeaks
         url: https://browserleaks.com/dns
+        icon: fas fa-link
+        description: ""
+      - name: 中兴智能路由器
+        url: http://192.168.5.1/#/menu/dashboard
         icon: fas fa-link
         description: ""
