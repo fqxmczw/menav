@@ -33,10 +33,6 @@ categories:
             url: http://localhost:8080/
             icon: fas fa-link
             description: ""
-          - name: OpenClaw
-            url: https://openclaw.162-211-182-81.sslip.io/chat/main
-            icon: fas fa-link
-            description: ""
           - name: Octopus
             url: http://162.211.182.81:8080/
             icon: fas fa-link
