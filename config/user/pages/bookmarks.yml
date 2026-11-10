@@ -561,16 +561,24 @@ categories:
           - 视频
           - Emby
         sites:
-          - name: hohai
-            url: https://tv.hohai.eu.org/
+          - name: 牛马服
+            url: https://302.88emby.icu/web/index.html#!/home
             icon: fas fa-link
             description: ""
-          - name: EOOS
-            url: https://eoos.top/
+          - name: 灣灣的EMBY
+            url: https://user.twmdzz.com/user
             icon: fas fa-link
             description: ""
           - name: 結束バンド
             url: https://mambo-hachimi.biliblili.uk/
+            icon: fas fa-link
+            description: ""
+          - name: EMOS
+            url: https://emos.club/
+            icon: fas fa-link
+            description: ""
+          - name: MDL公益
+            url: https://rt.saodu6.wang:19999/
             icon: fas fa-link
             description: ""
           - name: NoxEmby
@@ -605,10 +613,6 @@ categories:
             url: https://www.miraiemby.com/
             icon: fas fa-link
             description: ""
-          - name: 灣灣的EMBY
-            url: https://user.twmdzz.com/user
-            icon: fas fa-link
-            description: ""
           - name: OverCooked
             url: https://s.zhuhule.com/user
             icon: fas fa-link
@@ -617,20 +621,8 @@ categories:
             url: https://yh.4348663.xyz:12307/home
             icon: fas fa-link
             description: ""
-          - name: EMOS
-            url: https://emos.club/
-            icon: fas fa-link
-            description: ""
           - name: 宸澄
             url: https://register.wybcs.work/?tab=explore
-            icon: fas fa-link
-            description: ""
-          - name: MDL公益
-            url: https://rt.saodu6.wang:19999/
-            icon: fas fa-link
-            description: ""
-          - name: 随影
-            url: https://suiying.qutama.de/
             icon: fas fa-link
             description: ""
       - name: 资源站
