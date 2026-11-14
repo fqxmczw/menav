@@ -29,32 +29,24 @@ categories:
             url: https://mail.klmail.ccwu.cc/
             icon: fas fa-link
             description: ""
-          - name: RAGFlow
-            url: http://localhost:8080/
-            icon: fas fa-link
-            description: ""
           - name: Octopus
             url: http://162.211.182.81:8080/
             icon: fas fa-link
             description: ""
-          - name: WorkBuddy2API
-            url: http://162.211.182.81:7863/panel/#accounts
-            icon: fas fa-link
-            description: ""
-          - name: OPENCODE TO API
-            url: http://162.211.182.81:8000/
+          - name: WorkBuddy 控制台
+            url: https://workbuddy.nqma.cc.cd/?tab=overview
             icon: fas fa-link
             description: ""
           - name: Sub-Store
             url: http://162.211.182.81:3001/subs?api=http://162.211.182.81:3001/516b8511b0e03165b7750735d5988d1485d8c92c3240c787
             icon: fas fa-link
             description: ""
-          - name: 我的订阅管理
-            url: https://dy.klmail.ccwu.cc/
-            icon: fas fa-link
-            description: ""
           - name: 破烂の小🐔
             url: https://komari.88emby.icu/
+            icon: fas fa-link
+            description: ""
+          - name: Meridian
+            url: https://meridian.88emby.icu/
             icon: fas fa-link
             description: ""
           - name: Emby 服务器探针
@@ -65,24 +57,28 @@ categories:
             url: https://cf99.dpdns.org/
             icon: fas fa-link
             description: ""
-          - name: Meridian
-            url: https://meridian.88emby.icu/
+          - name: 我的订阅管理
+            url: https://dy.klmail.ccwu.cc/
             icon: fas fa-link
             description: ""
           - name: Private Notes
             url: https://notes.klmail.ccwu.cc/
             icon: fas fa-link
             description: ""
-          - name: 我的图床
-            url: https://imgbed.woblog.ccwu.cc/dashboard
-            icon: fas fa-link
-            description: ""
           - name: 我的弹幕API
             url: https://danmu.wofd.ccwu.cc/134679
             icon: fas fa-link
             description: ""
+          - name: Telegram 多账号抢红包 &amp; AI 签到中枢
+            url: https://emby.abcai.online/
+            icon: fas fa-link
+            description: ""
           - name: edgetunnel面板
             url: https://edt.wocf.ccwu.cc/admin
+            icon: fas fa-link
+            description: ""
+          - name: 我的图床
+            url: https://imgbed.woblog.ccwu.cc/dashboard
             icon: fas fa-link
             description: ""
           - name: CF Request Analytics
@@ -93,8 +89,8 @@ categories:
             url: https://tab.woblog.ccwu.cc/
             icon: fas fa-link
             description: ""
-          - name: Telegram 多账号抢红包 &amp; AI 签到中枢
-            url: https://emby.abcai.online/
+          - name: RAGFlow
+            url: http://localhost:8080/
             icon: fas fa-link
             description: ""
       - name: 开发
@@ -341,6 +337,10 @@ categories:
             url: https://platform.deepseek.com/usage
             icon: fas fa-link
             description: ""
+          - name: 39AI
+            url: https://39ai.me/dashboard/overview
+            icon: fas fa-link
+            description: ""
           - name: Hiyo Free
             url: https://free.hiyo.top/dashboard
             icon: fas fa-link
@@ -349,48 +349,24 @@ categories:
             url: https://discovery.intern-ai.org.cn/chat?lang=zh-CN
             icon: fas fa-link
             description: ""
-          - name: Moniker
-            url: https://aimoniker.top/console
-            icon: fas fa-link
-            description: ""
-          - name: Future Hub
-            url: https://api2.futureppo.top/console
-            icon: fas fa-link
-            description: ""
-          - name: JustDoWork
-            url: https://api.justwoker.icu/dashboard/overview
+          - name: 星驰API公益站
+            url: https://xingchiapi.com/dashboard
             icon: fas fa-link
             description: ""
           - name: Agent Router
             url: https://agentrouter.org/console
             icon: fas fa-link
             description: ""
-          - name: LongCatAI
-            url: https://longcat.chat/platform/usage
-            icon: fas fa-link
-            description: ""
-          - name: xKiro
-            url: https://xkiro.com/dashboard
-            icon: fas fa-link
-            description: ""
-          - name: Atria Dawn Preview
-            url: https://api.atria-asi.ai/console
-            icon: fas fa-link
-            description: ""
-          - name: Orbitix AI
-            url: https://orbitix.site/dashboard
-            icon: fas fa-link
-            description: ""
-          - name: 星见雅 API
-            url: https://new.xinjianya.top/console/token
+          - name: Moniker
+            url: https://aimoniker.top/console
             icon: fas fa-link
             description: ""
           - name: 黑化pro
             url: https://gptpro.live/dashboard
             icon: fas fa-link
             description: ""
-          - name: 39AI
-            url: https://39ai.me/dashboard/overview
+          - name: LongCatAI
+            url: https://longcat.chat/platform/usage
             icon: fas fa-link
             description: ""
       - name: 工具
