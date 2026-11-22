@@ -361,6 +361,10 @@ categories:
             url: https://ps.air-outer.com/console
             icon: fas fa-link
             description: ""
+          - name: 福利站
+            url: https://apikey.casa/dashboard
+            icon: fas fa-link
+            description: ""
           - name: Agent Router
             url: https://agentrouter.org/console
             icon: fas fa-link
@@ -399,10 +403,6 @@ categories:
             description: ""
           - name: HUB
             url: https://hub.linux.do/project/api-keys
-            icon: fas fa-link
-            description: ""
-          - name: 福利站
-            url: https://apikey.casa/dashboard
             icon: fas fa-link
             description: ""
       - name: 工具
