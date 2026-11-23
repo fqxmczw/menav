@@ -33,8 +33,8 @@ categories:
             url: https://astrbot.8-134-49-199.sslip.io/?_r=1794808131006#/data/statistics
             icon: fas fa-link
             description: ""
-          - name: WorkBuddy 控制台
-            url: https://workbuddy.nqma.cc.cd/?tab=overview
+          - name: WorkBuddy Manager
+            url: https://workbuddy.88emby.icu/dashboard
             icon: fas fa-link
             description: ""
           - name: Octopus
