@@ -361,12 +361,12 @@ categories:
             url: https://ps.air-outer.com/console
             icon: fas fa-link
             description: ""
-          - name: 福利站
-            url: https://apikey.casa/dashboard
+          - name: ChatflowsAI
+            url: https://ai.chatflowsai.com/dashboard
             icon: fas fa-link
             description: ""
-          - name: FreeGG
-            url: https://freegg.app/dashboard/models
+          - name: 福利站
+            url: https://apikey.casa/dashboard
             icon: fas fa-link
             description: ""
           - name: Hiyo Free
@@ -379,6 +379,10 @@ categories:
             description: ""
           - name: 少十元
             url: https://shaoshiyuan.xyz/dashboard/overview
+            icon: fas fa-link
+            description: ""
+          - name: FreeGG
+            url: https://freegg.app/dashboard/models
             icon: fas fa-link
             description: ""
           - name: 星驰API公益站
