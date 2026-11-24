@@ -369,16 +369,20 @@ categories:
             url: https://freegg.app/dashboard/models
             icon: fas fa-link
             description: ""
-          - name: 星驰API公益站
-            url: https://xingchiapi.com/dashboard
-            icon: fas fa-link
-            description: ""
           - name: Hiyo Free
             url: https://free.hiyo.top/dashboard
             icon: fas fa-link
             description: ""
           - name: 书生·端砚 Intern InkStone
             url: https://discovery.intern-ai.org.cn/chat?lang=zh-CN
+            icon: fas fa-link
+            description: ""
+          - name: 少十元
+            url: https://shaoshiyuan.xyz/dashboard/overview
+            icon: fas fa-link
+            description: ""
+          - name: 星驰API公益站
+            url: https://xingchiapi.com/dashboard
             icon: fas fa-link
             description: ""
           - name: 39AI
