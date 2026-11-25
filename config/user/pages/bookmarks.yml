@@ -315,28 +315,24 @@ categories:
             url: https://chatgpt.com/
             icon: fas fa-link
             description: ""
-          - name: Grok
-            url: https://grok.com/
-            icon: fas fa-link
+          - name: Gemini
+            url: https://gemini.google.com/
+            icon: fab fa-google
+            description: ""
+          - name: Google AI Studio
+            url: https://aistudio.google.com/usage?timeRange=last-28-days&amp;project=gen-lang-client-0822882238
+            icon: fab fa-google
             description: ""
           - name: Deepseek
             url: https://chat.deepseek.com/
             icon: fas fa-link
             description: ""
+          - name: Grok
+            url: https://grok.com/
+            icon: fas fa-link
+            description: ""
           - name: Copilot
             url: https://m365.cloud.microsoft/search?fromcode=cmmiadtp424&amp;refOrigin=Bing&amp;origindomain=Office&amp;auth=1&amp;client-request-id=51d2bff2-8b89-412e-b3e0-e0b9f4e55da5&amp;redirfrom=cosmicRingCookie
-            icon: fas fa-link
-            description: ""
-          - name: Gemini
-            url: https://gemini.google.com/
-            icon: fab fa-google
-            description: ""
-          - name: 豆包
-            url: https://www.doubao.com/chat
-            icon: fas fa-link
-            description: ""
-          - name: cto
-            url: https://cto.new/
             icon: fas fa-link
             description: ""
           - name: Muse
@@ -351,9 +347,13 @@ categories:
             url: https://codearts.huaweicloud.com/portal/settings/personal-usage?locale=zh-cn
             icon: fas fa-link
             description: ""
-          - name: Google AI Studio
-            url: https://aistudio.google.com/usage?timeRange=last-28-days&amp;project=gen-lang-client-0822882238
-            icon: fab fa-google
+          - name: 豆包
+            url: https://www.doubao.com/chat
+            icon: fas fa-link
+            description: ""
+          - name: cto
+            url: https://cto.new/
+            icon: fas fa-link
             description: ""
       - name: 中转站
         icon: fas fa-folder
@@ -365,16 +365,24 @@ categories:
             url: https://platform.deepseek.com/usage
             icon: fas fa-link
             description: ""
-          - name: Agent Router
-            url: https://ps.air-outer.com/console
+          - name: 轻享AI
+            url: https://gogo.aiqingxiang.xyz/dashboard
             icon: fas fa-link
             description: ""
           - name: ChatflowsAI
             url: https://ai.chatflowsai.com/dashboard
             icon: fas fa-link
             description: ""
+          - name: Agent Router
+            url: https://ps.air-outer.com/console
+            icon: fas fa-link
+            description: ""
           - name: 福利站
             url: https://apikey.casa/dashboard
+            icon: fas fa-link
+            description: ""
+          - name: FreeGG
+            url: https://freegg.app/dashboard/models
             icon: fas fa-link
             description: ""
           - name: Hiyo Free
@@ -387,10 +395,6 @@ categories:
             description: ""
           - name: 少十元
             url: https://shaoshiyuan.xyz/dashboard/overview
-            icon: fas fa-link
-            description: ""
-          - name: FreeGG
-            url: https://freegg.app/dashboard/models
             icon: fas fa-link
             description: ""
           - name: 星驰API公益站
@@ -419,10 +423,6 @@ categories:
             description: ""
           - name: Agent Router
             url: https://agentrouter.org/console
-            icon: fas fa-link
-            description: ""
-          - name: 轻享AI
-            url: https://gogo.aiqingxiang.xyz/dashboard
             icon: fas fa-link
             description: ""
       - name: 工具
