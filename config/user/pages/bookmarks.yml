@@ -413,6 +413,10 @@ categories:
             url: https://agentrouter.org/console
             icon: fas fa-link
             description: ""
+          - name: 轻享AI
+            url: https://gogo.aiqingxiang.xyz/dashboard
+            icon: fas fa-link
+            description: ""
       - name: 工具
         icon: fas fa-folder
         path:
