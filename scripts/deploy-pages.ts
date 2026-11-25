@@ -7,6 +7,7 @@ const log = createLogger('pages-deploy');
 const maxPolls = 120;
 const intervalMs = 5000;
 const maxDurationMs = 10 * 60 * 1000;
+const maxDeploymentAttempts = 3;
 const failedStatuses = new Set([
   'deployment_failed',
   'deployment_perms_error',
@@ -54,9 +55,27 @@ export async function deployPages(
     'X-GitHub-Api-Version': '2022-11-28',
     'Content-Type': 'application/json',
   };
+  const startedAt = now();
+
+  function ensureActive() {
+    signal?.throwIfAborted();
+    if (now() - startedAt >= maxDurationMs) {
+      throw new Error('Pages deployment exceeded the 10 minute total deadline');
+    }
+  }
+
+  async function wait(milliseconds: number) {
+    ensureActive();
+    await delay(Math.min(milliseconds, maxDurationMs - (now() - startedAt)), signal);
+    ensureActive();
+  }
 
   async function request(url: string, options: RequestInit, label: string, interruptible = true) {
-    const timeout = AbortSignal.timeout(10000);
+    if (interruptible) ensureActive();
+    const timeoutMs = interruptible
+      ? Math.max(1, Math.min(10000, maxDurationMs - (now() - startedAt)))
+      : 10000;
+    const timeout = AbortSignal.timeout(timeoutMs);
     const requestSignal = signal && interruptible ? AbortSignal.any([signal, timeout]) : timeout;
     const response = await fetchImpl(url, { ...options, signal: requestSignal });
     if (!response.ok) throw new Error(`${label} failed: HTTP ${response.status}`);
@@ -73,37 +92,33 @@ export async function deployPages(
     throw new Error('OIDC token response is missing value');
   }
 
-  const deployment = (await request(
-    deploymentUrl,
-    {
-      method: 'POST',
-      headers,
-      body: JSON.stringify({
-        artifact_id: artifactId,
-        pages_build_version: env.GITHUB_SHA,
-        oidc_token: identity.value,
-      }),
-    },
-    'Pages deployment creation'
-  )) as PagesDeployment;
-  const deploymentId = deployment.id || env.GITHUB_SHA!;
-  const statusUrl = `${deploymentUrl}/${encodeURIComponent(deploymentId)}`;
-  const startedAt = now();
+  async function createDeployment() {
+    return (await request(
+      deploymentUrl,
+      {
+        method: 'POST',
+        headers,
+        body: JSON.stringify({
+          artifact_id: artifactId,
+          pages_build_version: env.GITHUB_SHA,
+          oidc_token: identity.value,
+        }),
+      },
+      'Pages deployment creation'
+    )) as PagesDeployment;
+  }
+
+  let deployment = await createDeployment();
+  let deploymentId = deployment.id || env.GITHUB_SHA!;
+  let statusUrl = `${deploymentUrl}/${encodeURIComponent(deploymentId)}`;
+  let deploymentAttempt = 1;
   let pending = true;
   let previousStatus = '';
-  log.info('Created Pages deployment', { artifactId, deploymentId });
+  log.info('Created Pages deployment', { artifactId, deploymentId, attempt: deploymentAttempt });
 
   try {
     for (let attempt = 1; attempt <= maxPolls; attempt += 1) {
-      signal?.throwIfAborted();
-      if (now() - startedAt >= maxDurationMs) {
-        throw new Error('Pages deployment exceeded the 10 minute total deadline');
-      }
-      await delay(intervalMs, signal);
-      signal?.throwIfAborted();
-      if (now() - startedAt >= maxDurationMs) {
-        throw new Error('Pages deployment exceeded the 10 minute total deadline');
-      }
+      await wait(intervalMs);
       const result = (await request(statusUrl, { headers }, 'Pages deployment status')) as {
         status?: string;
       };
@@ -117,7 +132,34 @@ export async function deployPages(
       }
       if (failedStatuses.has(result.status)) {
         pending = false;
-        throw new Error(`Pages deployment failed: ${result.status}`);
+        if (
+          result.status !== 'deployment_failed' ||
+          deploymentAttempt >= maxDeploymentAttempts ||
+          attempt === maxPolls
+        ) {
+          throw new Error(`Pages deployment failed: ${result.status}`);
+        }
+        const backoffMs = 10000 * deploymentAttempt;
+        log.warn('Pages deployment failed; retrying after backoff', {
+          status: result.status,
+          deploymentId,
+          attempt: deploymentAttempt,
+          maxAttempts: maxDeploymentAttempts,
+          backoffMs,
+        });
+        await wait(backoffMs);
+        deployment = await createDeployment();
+        deploymentId = deployment.id || env.GITHUB_SHA!;
+        statusUrl = `${deploymentUrl}/${encodeURIComponent(deploymentId)}`;
+        deploymentAttempt += 1;
+        pending = true;
+        previousStatus = '';
+        log.info('Created Pages deployment', {
+          artifactId,
+          deploymentId,
+          attempt: deploymentAttempt,
+        });
+        continue;
       }
       if (result.status !== previousStatus) {
         log.info('Waiting for Pages deployment', { status: result.status });
