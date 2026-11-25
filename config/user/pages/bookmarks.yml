@@ -789,3 +789,7 @@ categories:
         url: http://192.168.5.1/#/menu/dashboard
         icon: fas fa-link
         description: ""
+      - name: 美国地址生成器
+        url: https://addresslab.net/zh/
+        icon: fas fa-link
+        description: ""
