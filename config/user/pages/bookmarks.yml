@@ -347,6 +347,10 @@ categories:
             url: https://www.codebuddy.ai/agents
             icon: fas fa-link
             description: ""
+          - name: 华为云
+            url: https://codearts.huaweicloud.com/portal/settings/personal-usage?locale=zh-cn
+            icon: fas fa-link
+            description: ""
       - name: 中转站
         icon: fas fa-folder
         path:
