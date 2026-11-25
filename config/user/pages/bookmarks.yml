@@ -451,6 +451,10 @@ categories:
             url: https://mcp.so/
             icon: fas fa-link
             description: ""
+          - name: 图片游乐场
+            url: https://image.oaichat.cc/
+            icon: fas fa-link
+            description: ""
       - name: Prompt
         icon: fas fa-folder
         path:
