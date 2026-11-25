@@ -351,6 +351,10 @@ categories:
             url: https://codearts.huaweicloud.com/portal/settings/personal-usage?locale=zh-cn
             icon: fas fa-link
             description: ""
+          - name: Google AI Studio
+            url: https://aistudio.google.com/usage?timeRange=last-28-days&amp;project=gen-lang-client-0822882238
+            icon: fab fa-google
+            description: ""
       - name: 中转站
         icon: fas fa-folder
         path:
