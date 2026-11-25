@@ -425,10 +425,6 @@ categories:
             url: https://agentrouter.org/console
             icon: fas fa-link
             description: ""
-          - name: Aj生图
-            url: https://image.a-j.app/
-            icon: fas fa-link
-            description: ""
       - name: 工具
         icon: fas fa-folder
         path:
@@ -449,6 +445,10 @@ categories:
             description: ""
           - name: MCP.so
             url: https://mcp.so/
+            icon: fas fa-link
+            description: ""
+          - name: Aj生图
+            url: https://image.a-j.app/
             icon: fas fa-link
             description: ""
           - name: 图片游乐场
