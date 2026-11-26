@@ -373,6 +373,10 @@ categories:
             url: https://ai.chatflowsai.com/dashboard
             icon: fas fa-link
             description: ""
+          - name: 「林夕」公益站
+            url: https://k40.shengqainbang.cn/dashboard
+            icon: fas fa-link
+            description: ""
           - name: Agent Router
             url: https://ps.air-outer.com/console
             icon: fas fa-link
