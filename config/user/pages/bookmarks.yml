@@ -401,10 +401,6 @@ categories:
             url: https://xingchiapi.com/dashboard
             icon: fas fa-link
             description: ""
-          - name: 39AI
-            url: https://39ai.me/dashboard/overview
-            icon: fas fa-link
-            description: ""
           - name: Moniker
             url: https://aimoniker.top/console
             icon: fas fa-link
